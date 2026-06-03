@@ -7,6 +7,7 @@ Importdatum: 2026-06-03
 ## Index
 
 - [[notion-notities-index|Notion notities index]]
+- [[notion-audit-2026-06-03|Notion audit 2026-06-03]]
 - [[business-ideeen/README|Business ideeen]]
 - [[podcast/README|Podcast]]
 - [[productontwikkeling/README|Productontwikkeling]]

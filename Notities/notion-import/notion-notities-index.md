@@ -4,6 +4,8 @@ Importdatum: 2026-06-03
 
 Bron: Notion `Notes` en gekoppelde resource/project-notities.
 
+Aanvullende controle: [[notion-audit-2026-06-03|Notion audit 2026-06-03]]
+
 ## Geimporteerde Gebieden
 
 ### Business ideeen
