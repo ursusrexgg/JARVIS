@@ -16,7 +16,11 @@ Werk vanuit intentie, niet vanuit volledige mapscans. Gebruik deze rootlaag eers
 ## Hoofdgebieden
 
 - `Kennis/`: private kennisbank en tweede brein voor concepten, bronnen, analyses en templates.
+- `Context/`: actuele persoonlijke, werk-, prioriteiten- en communicatiecontext.
+- `Planning/`: dagfocus, open loops en wekelijkse review.
 - `Branding/`: tone of voice, merkregels, brand guidelines en stijlafspraken.
+- `Besluiten/`: decision log voor structurele keuzes.
+- `Skills/`: lokale Codex-proceskaarten voor terugkerende executive-assistant taken.
 - `Projecten/`: actieve en toekomstige projecten, zoals Sereen en Personal Brand Arthur.
 - `Workflows/`: herhaalbare productielijnen zoals BlogAI, YTAI en LIAI.
 - `Inspiratie/`: losse inspiratie en materiaal dat nog niet altijd in een vaste workflow zit.
@@ -29,6 +33,9 @@ Werk vanuit intentie, niet vanuit volledige mapscans. Gebruik deze rootlaag eers
 - Respecteer lokale agentregels in submappen. Lokale `AGENTS.md`-bestanden zijn leidend voor dat subsysteem.
 - Maak nieuwe onderdelen vindbaar via een README, index of duidelijke vermelding in `ROUTING.md` of `PROJECTS.md`.
 - Voeg bij nieuwe workflows altijd toe: doel, input, output, startbestand, stopregels en waar resultaten worden opgeslagen.
+- Werk contextbestanden alleen bij wanneer Arthur daarom vraagt of bevestigt dat iets blijvend onthouden mag worden.
+- Leg structurele besluiten alleen vast in `Besluiten/decision-log.md` na duidelijke opdracht of bevestiging.
+- Gebruik `Skills/` als proceskaart bij terugkerende EA-taken, maar lees alleen de relevante skill.
 - Houd edits klein en traceerbaar. Geen massale herstructurering tenzij Arthur daar expliciet om vraagt.
 
 ## Stopregels

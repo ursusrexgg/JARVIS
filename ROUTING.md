@@ -24,6 +24,57 @@ Start hier:
 
 Gebruik `Kennis/00_inbox/intern/` voor eigen materiaal en `Kennis/00_inbox/extern/` voor materiaal van anderen.
 
+### Persoonlijke Context, Prioriteiten Of Planning
+
+Start hier:
+
+1. `Context/README.md`
+2. `Context/current-priorities.md`
+3. `Context/me.md`
+4. `Context/work.md`
+5. `Context/communication-preferences.md`
+
+Gebruik dit voor vragen over focus, prioriteiten, dagplanning, werkcontext, persoonlijke voorkeuren en hoe Jarvis met Arthur moet samenwerken.
+
+### Dagplanning Of Weekly Review
+
+Start hier:
+
+1. `Planning/README.md`
+2. `Planning/today.md`
+3. `Planning/open-loops.md`
+4. `Planning/weekly-review.md`
+5. `Context/current-priorities.md`
+
+Gebruik dit voor dagplanning, open loops, focusvragen en wekelijkse reviews.
+
+### Lokale Codex-Skills
+
+Start hier:
+
+1. `Skills/README.md`
+2. de specifieke skill die past bij de taak
+
+Beschikbare eerste skills:
+
+- `Skills/morning-review.md`
+- `Skills/project-pulse-check.md`
+- `Skills/decision-capture.md`
+- `Skills/research-brief.md`
+- `Skills/content-repurpose.md`
+
+Gebruik dit voor terugkerende executive-assistant taken waarbij een vaste werkwijze helpt.
+
+### Besluiten Of Structurele Keuzes
+
+Start hier:
+
+1. `Besluiten/README.md`
+2. `Besluiten/decision-log.md`
+3. `Besluiten/decision-template.md`
+
+Gebruik dit voor keuzes over Jarvis-structuur, projectrichting, workflowregels, privacy, GitHub of terugkerende werkwijze.
+
 ### Tone Of Voice Of Brand Guidelines
 
 Start hier:
@@ -123,6 +174,10 @@ Context die vaak hergebruikt wordt hoort niet verstopt in een projectoutput.
 Gebruik:
 
 - `Branding/` voor stem, stijl en brand;
+- `Context/` voor actuele persoonlijke, werk- en prioriteitencontext;
+- `Planning/` voor dagfocus, open loops en weekly review;
+- `Besluiten/` voor structurele keuzes en beslisgeschiedenis;
+- `Skills/` voor lokale Codex-proceskaarten;
 - `Kennis/02_wiki/` voor conceptuele kennis;
 - `PROJECTS.md` voor projectstatus en prioriteiten;
 - lokale `AGENTS.md`-bestanden voor werkwijze per subsysteem.

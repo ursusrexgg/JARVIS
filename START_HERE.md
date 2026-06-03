@@ -8,6 +8,12 @@ Gebruik deze pagina als menselijk dashboard. Voor agentinstructies staat de tech
 
 - Algemene kennis zoeken of uitbreiden: `Kennis/index.md`
 - Nieuwe kennis droppen: `Kennis/00_inbox/`
+- Actuele persoonlijke/werkcontext: `Context/README.md`
+- Huidige prioriteiten: `Context/current-priorities.md`
+- Planning vandaag: `Planning/today.md`
+- Open loops: `Planning/open-loops.md`
+- Lokale Codex-skills: `Skills/README.md`
+- Besluitenlog: `Besluiten/decision-log.md`
 - Branding en tone of voice: `Branding/README.md`
 - Tone of voice gebruiken of bijwerken: `Branding/Tone-of-voice/`
 - Brand guidelines opbouwen: `Branding/Tone-of-voice/brand-guidelines/`
@@ -24,7 +30,7 @@ Gebruik deze pagina als menselijk dashboard. Voor agentinstructies staat de tech
 
 Alles wat bepaalt hoe Jarvis denkt, schrijft en beslist: tone of voice, brand guidelines, voorkeuren, principes, persoonlijke context en werkafspraken.
 
-Belangrijkste plek nu: `Branding/`.
+Belangrijkste plekken nu: `Context/` en `Branding/`.
 
 ### Kennis
 
@@ -43,6 +49,24 @@ Belangrijkste plek nu: `Workflows/`.
 Concrete initiatieven waar Arthur aan werkt, zoals Sereen en straks een personal brand.
 
 Belangrijkste plekken nu: `PROJECTS.md` en `Projecten/`.
+
+### Besluiten
+
+Structurele keuzes over Jarvis, projecten, workflows en werkwijze.
+
+Belangrijkste plek nu: `Besluiten/decision-log.md`.
+
+### Planning
+
+Dagfocus, open loops en wekelijkse reflectie.
+
+Belangrijkste plek nu: `Planning/`.
+
+### Skills
+
+Terugkerende executive-assistant werkwijzen voor Codex.
+
+Belangrijkste plek nu: `Skills/`.
 
 ### Outputs
 
