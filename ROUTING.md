@@ -31,8 +31,11 @@ Start hier:
 1. `Notities/README.md`
 2. `Notities/00_inbox/snelle-ideeen.md`
 3. `Notities/schrijven/README.md`
+4. `Notities/notion-import/notion-notities-index.md`
 
 Gebruik dit voor snelle ideeën, ruwe notities, boekideeën, blogs, LinkedIn-posts, scripts, essays, meetingnotities en reflecties.
+
+Gebruik `Notities/notion-import/` voor notities die uit Notion zijn overgezet en nog niet definitief zijn verwerkt naar schrijven, projecten of kennis.
 
 Gebruik `Notities/` voor denken en schrijven. Gebruik `Kennis/` pas wanneer iets verwerkt en herbruikbaar genoeg is voor de wiki. Gebruik Notion later voor projectmanagement, taken, deadlines en verantwoordelijkheden.
 

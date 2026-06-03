@@ -10,4 +10,5 @@ Dit is de eenvoudige Obsidian-startpagina. Geen projectmanagementlaag, geen dagd
 - [[PROJECTS|Projecten]]
 - [[Context/README|Context]]
 - [[Kennis/index|Kennis]]
+- [[Notities/notion-import/notion-notities-index|Notion Notities]]
 - [[Skills/README|Skills]]

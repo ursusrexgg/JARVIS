@@ -8,6 +8,7 @@ Gebruik `Notities/` voor denken en schrijven. Gebruik `Kennis/` pas wanneer iets
 
 - Snelle ideeën: `00_inbox/snelle-ideeen.md`
 - Losse notities: `00_inbox/losse-notities.md`
+- Notion-import: `notion-import/notion-notities-index.md`
 - Schrijven: `schrijven/`
 - Boeken: `schrijven/boeken/`
 - Blogs: `schrijven/blogs/`
@@ -22,6 +23,7 @@ Gebruik `Notities/` voor denken en schrijven. Gebruik `Kennis/` pas wanneer iets
 
 - Nieuwe losse gedachte? Zet die eerst in `00_inbox/snelle-ideeen.md`.
 - Langere losse notitie? Zet die in `00_inbox/losse-notities.md`.
+- Geimporteerde Notion-notities? Bewaar die eerst in `notion-import/` en verwerk later naar schrijven, projecten of kennis.
 - Content die geschreven moet worden? Zet die onder `schrijven/`.
 - Meeting of gesprek? Zet die onder `meetings/`.
 - Persoonlijke reflectie? Zet die onder `reflecties/`.

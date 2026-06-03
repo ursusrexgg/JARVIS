@@ -1,0 +1,53 @@
+# Notion Notities Index
+
+Importdatum: 2026-06-03
+
+Bron: Notion `Notes` en gekoppelde resource/project-notities.
+
+## Geimporteerde Gebieden
+
+### Business ideeen
+
+- [[business-ideeen/financieel-inzicht-app|Financieel inzicht app]]
+- [[business-ideeen/accountability-app|Accountability app]]
+- [[business-ideeen/website-analyse-tool|Website analyse tool]]
+- [[business-ideeen/doelgroep-bepalen-app|Doelgroep bepalen app]]
+- [[business-ideeen/onweerstaanbaar-aanbod-app|Onweerstaanbaar aanbod app]]
+- [[business-ideeen/financieel-doel-app|Financieel doel app]]
+- [[business-ideeen/blog-en-nieuwsbrief-analyse-tool|Blog en nieuwsbrief analyse tool]]
+- [[business-ideeen/toetsen-combinatie-tool|Toetsen combinatie tool]]
+- [[business-ideeen/tool-om-te-ontdekken-of-je-wel-moet-ondernemen|Tool om te ontdekken of je wel moet ondernemen]]
+- [[business-ideeen/frameworks-van-code49-samen-met-leden-toepassen|Frameworks van Code49 samen met leden toepassen]]
+- [[business-ideeen/ai-transcriptie-coach|AI transcriptie coach]]
+
+### Podcast
+
+- [[podcast/podcast-ondernemer-doorbraak|Podcast ondernemer doorbraak]]
+- [[podcast/podcast-concept|Podcast concept]]
+
+### Productontwikkeling
+
+- [[productontwikkeling/productontwikkeling|Productontwikkeling]]
+- [[productontwikkeling/omzet-berekening|Omzet berekening]]
+- [[productontwikkeling/value-equation|Value Equation]]
+- [[productontwikkeling/product-warm-outreach|Product: Warm Outreach]]
+
+### Sales
+
+- [[sales/sales-verbeteren|Sales verbeteren]]
+- [[sales/warm-outreach-concept|Warm Outreach - Concept]]
+- [[sales/warm-outreach-inhoud-traject|Warm Outreach - Inhoud traject]]
+- [[sales/grand-slam-offer|Grand Slam Offer]]
+- [[sales/succesflow-traject|SuccesFlow traject]]
+
+### Resources
+
+- [[resources/boek-schrijven|Boek schrijven]]
+- [[resources/marketing|Marketing]]
+- [[resources/sales-resource|Sales resource]]
+
+## Opmerkingen Uit Import
+
+- Veel onderliggende Notion-notes kwamen terug met status `deleted`, maar waren nog wel uitleesbaar. Ze zijn daarom wel meegenomen.
+- Enkele pagina's waren leeg in Notion. Die zijn als placeholder opgenomen zodat de index compleet blijft.
+- `Marketing` en `Boek schrijven` kwamen als resourcepagina's terug, maar zonder zichtbare onderliggende notes via de koppeling.
