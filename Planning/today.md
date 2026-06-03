@@ -4,21 +4,21 @@ Datum: 2026-06-03
 
 ## Focus Van Vandaag
 
-- Jarvis stap voor stap verder opbouwen als Codex executive-assistant brain.
+- Jarvis werkbaar maken als daily driver en beoordelen of het dashboard/takenmodel logisch voelt.
 
 ## Belangrijkste Uitkomst
 
-- Een bruikbare operationele laag toevoegen: context, besluiten, planning en skills.
+- Een simpel systeem hebben waarmee Arthur dagelijks kan zien wat belangrijk is, wat openstaat en wat de volgende actie is.
 
 ## Taken
 
-- [ ] Contextlaag aanmaken.
-- [ ] Besluitenlog aanmaken.
-- [ ] Planninglaag aanmaken.
-- [ ] Eerste Codex-skills aanmaken.
-- [ ] Routing en root-agentregels bijwerken.
+- [ ] Open [[Dashboard|Jarvis Dashboard]].
+- [ ] Check [[Planning/tasks|Tasks]].
+- [ ] Kies maximaal drie taken voor vandaag.
+- [ ] Verplaats losse gedachten naar [[Planning/open-loops|Open Loops]].
+- [ ] Noteer wat onduidelijk of onhandig voelt aan het dashboard.
 
 ## Notities
 
-- Externe agenda-, Gmail- en projectmanagementkoppelingen zijn nog niet aan de orde.
-- Obsidian-dashboard komt later.
+- Geen extra projectmanagementtool kiezen voordat Obsidian als daily-driver basis is getest.
+- Het systeem moet dagelijks gebruikt kunnen worden, anders is het te ingewikkeld.

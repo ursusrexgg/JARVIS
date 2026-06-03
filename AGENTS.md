@@ -18,6 +18,7 @@ Werk vanuit intentie, niet vanuit volledige mapscans. Gebruik deze rootlaag eers
 - `Kennis/`: private kennisbank en tweede brein voor concepten, bronnen, analyses en templates.
 - `Context/`: actuele persoonlijke, werk-, prioriteiten- en communicatiecontext.
 - `Planning/`: dagfocus, open loops en wekelijkse review.
+- `Dashboard.md`: actieve Obsidian-startpagina voor dagelijks gebruik.
 - `Branding/`: tone of voice, merkregels, brand guidelines en stijlafspraken.
 - `Besluiten/`: decision log voor structurele keuzes.
 - `Skills/`: lokale Codex-proceskaarten voor terugkerende executive-assistant taken.
@@ -43,6 +44,7 @@ Werk vanuit intentie, niet vanuit volledige mapscans. Gebruik deze rootlaag eers
 - Gebruik `Skills/` als proceskaart bij terugkerende EA-taken, maar lees alleen de relevante skill.
 - Gebruik `Rules/` voor detailregels in plaats van `AGENTS.md` vol te maken.
 - Gebruik `Templates/` voor terugkerende outputvormen.
+- Gebruik bij dagplanning eerst `Dashboard.md`, `Planning/tasks.md`, `Planning/today.md` en `Planning/open-loops.md`.
 - Verwijder liever niets definitief; archiveer rootbreed materiaal in `Archief/` of lokaal in de juiste archiefmap.
 - Houd edits klein en traceerbaar. Geen massale herstructurering tenzij Arthur daar expliciet om vraagt.
 

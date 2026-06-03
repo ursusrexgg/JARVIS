@@ -42,7 +42,9 @@ Start hier:
 
 1. `Context/private-life.md`
 2. `Context/health-and-fitness.md`
-3. `Planning/open-loops.md`
+3. `Planning/reminders.md`
+4. `Planning/routines.md`
+5. `Planning/open-loops.md`
 
 Gebruik dit voor priveplanning, herinneringen, gezondheid, roeitraining, CrossFit, balkonmoestuin, verjaardagen en persoonlijke routines.
 
@@ -50,11 +52,13 @@ Gebruik dit voor priveplanning, herinneringen, gezondheid, roeitraining, CrossFi
 
 Start hier:
 
-1. `Planning/README.md`
-2. `Planning/today.md`
-3. `Planning/open-loops.md`
-4. `Planning/weekly-review.md`
-5. `Context/current-priorities.md`
+1. `Dashboard.md`
+2. `Planning/README.md`
+3. `Planning/tasks.md`
+4. `Planning/today.md`
+5. `Planning/open-loops.md`
+6. `Planning/weekly-review.md`
+7. `Context/current-priorities.md`
 
 Gebruik dit voor dagplanning, open loops, focusvragen en wekelijkse reviews.
 
@@ -243,6 +247,7 @@ Gebruik:
 - `Branding/` voor stem, stijl en brand;
 - `Context/` voor actuele persoonlijke, werk- en prioriteitencontext;
 - `Planning/` voor dagfocus, open loops en weekly review;
+- `Dashboard.md` als Obsidian-startdashboard;
 - `Besluiten/` voor structurele keuzes en beslisgeschiedenis;
 - `Skills/` voor lokale Codex-proceskaarten;
 - `Rules/` voor rootbrede werkregels;
