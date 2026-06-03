@@ -191,6 +191,20 @@ Start hier:
 
 Sereen is een projectomgeving. Behandel compliance- en projectdocumentatie zorgvuldig.
 
+### Jarvis Dashboard
+
+Start hier:
+
+1. `Projecten/Jarvis Dashboard/README.md`
+2. `Projecten/Jarvis Dashboard/project-brief.md`
+3. `Projecten/Jarvis Dashboard/roadmap.md`
+4. `Projecten/Jarvis Dashboard/design-brief.md`
+5. `Projecten/Jarvis Dashboard/integrations.md`
+
+Gebruik dit voor vragen over de visuele daily-driver app, dashboardontwerp, mission control, documenteninterface, Jarvis chat, Gmail/Calendar/projectmanagement-koppelingen, memory, skills, agentgebruik en kosten.
+
+Projectmanagement zelf wordt niet in Jarvis Dashboard gebouwd; het dashboard leest later uit een externe projectmanagementtool.
+
 ### Cursusontwikkeling
 
 Start hier:

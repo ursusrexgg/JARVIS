@@ -21,6 +21,7 @@ Dit bestand houdt bij welke tools, repositories en externe koppelingen relevant 
 - Wordt gebruikt als notitie-, context- en kennisomgeving.
 - `Dashboard.md` toont alleen de centrale checklist.
 - Obsidian wordt niet gebruikt als volledig projectmanagementsysteem.
+- Toekomstige Jarvis Dashboard-app moet Markdown-documenten kunnen aanmaken die in Obsidian te openen zijn.
 
 ### Google Workspace
 
@@ -81,6 +82,14 @@ Deze tools zijn onderdeel van Arthur's ervaring, maar zijn niet automatisch de t
 - taken- of projectmanagementtool
 - HubSpot
 - Perplexity API voor gericht product- en toolonderzoek
+- Jarvis Dashboard als lokale daily-driver app voor het samenbrengen van deze bronnen
+
+## Jarvis Dashboard
+
+- Projectmap: `Projecten/Jarvis Dashboard/`
+- Doel: visuele cockpit voor vandaag, projecten, kennis, agenda, mail, documenten, Jarvis chat, skills, memory en later agentgebruik/kosten.
+- Principe: externe systemen blijven bron van waarheid; het dashboard toont, routeert, vat samen en helpt beslissen.
+- V1 moet eerst lokaal werken op Jarvis-bestanden voordat externe accounts gekoppeld worden.
 
 ## Projectmanagement Wens
 

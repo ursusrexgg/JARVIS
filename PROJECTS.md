@@ -29,6 +29,21 @@ Dit is het lichte projectenoverzicht van Jarvis. Het doel is niet projectmanagem
 - Agentregels: `AGENTS.md`
 - Doel: zorgen dat context, kennis, workflows, tone of voice, projecten, besluiten, planning en output snel vindbaar en herbruikbaar zijn.
 
+### Jarvis Dashboard
+
+- Status: opbouw
+- Type: visuele daily-driver app / executive-assistant cockpit
+- Start: `Projecten/Jarvis Dashboard/README.md`
+- Belangrijkste documenten:
+  - `Projecten/Jarvis Dashboard/project-brief.md`
+  - `Projecten/Jarvis Dashboard/roadmap.md`
+  - `Projecten/Jarvis Dashboard/design-brief.md`
+  - `Projecten/Jarvis Dashboard/integrations.md`
+  - `Projecten/Jarvis Dashboard/documents-workflow.md`
+- Doel: een eigen dashboard bouwen dat Jarvis, Obsidian, Gmail, Google Calendar, kennis, projecten, documenten, skills, memory en later projectmanagement samenbrengt in één dagelijkse cockpit.
+- Eerstvolgende stap: ontwerp en V1-scope aanscherpen voordat de lokale webapp gebouwd wordt.
+- Stopregels: geen externe accounts, OAuth, secrets, mails, agenda-aanpassingen of externe writes zonder expliciete bevestiging.
+
 ## Projecten In Opbouw
 
 ### Personal Brand Arthur

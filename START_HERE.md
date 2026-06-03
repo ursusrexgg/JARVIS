@@ -29,6 +29,7 @@ De actieve Obsidian-startpagina is `Dashboard.md`. Die pagina toont alleen de ce
 - Brand guidelines opbouwen: `Branding/Tone-of-voice/brand-guidelines/`
 - Projectenoverzicht: `PROJECTS.md`
 - Projectmappen: `Projecten/`
+- Jarvis Dashboard app: `Projecten/Jarvis Dashboard/README.md`
 - Blog maken: `Workflows/BlogAI/AGENTS.md`
 - YouTube-video researchen: `Workflows/YTAI/AGENTS.md`
 - LinkedIn/content workflow gebruiken: `Workflows/LIAI/AGENTS.MD`
@@ -61,6 +62,8 @@ Belangrijkste plek nu: `Workflows/`.
 Concrete initiatieven waar Arthur aan werkt, zoals Sereen en straks een personal brand.
 
 Belangrijkste plekken nu: `PROJECTS.md` en `Projecten/`.
+
+Jarvis Dashboard is het project voor de toekomstige visuele daily-driver app. Die app moet Jarvis, Obsidian, Gmail, Google Calendar, kennis, projecten, documenten, skills, memory en later projectmanagement samenbrengen.
 
 ### Besluiten
 
