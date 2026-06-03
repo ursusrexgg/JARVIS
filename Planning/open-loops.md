@@ -7,13 +7,16 @@ Dit bestand bevat losse aandachtspunten die nog niet definitief in een project, 
 - Obsidian-dashboard ontwerpen voor projecten, dagelijkse taken, workflows en contextlinks.
 - Personal Brand Arthur inhoudelijk uitwerken: positionering, doelgroep, contentpijlers en merkregels.
 - Bepalen welke projecten actief, wachtend of archief zijn.
-- Bepalen welke externe koppelingen later nuttig zijn: agenda, Gmail, taken/projectmanagement.
+- Bepalen of projectmanagement in Obsidian kan worden ingericht met dagtaken, deadlines, voortgang en gedeelde Sereen-projecttaken.
+- Bepalen welke externe koppelingen later nuttig zijn: agenda, Gmail, Google Drive en eventueel taken/projectmanagement.
+- Trigger.dev inrichten voor automatische scrape op YouTube video's, bijvoorbeeld van Nate Herk. [[The EASIEST Way to Host Your Claude Code Agents]]
 
 ## Wacht
 
-- Cursusworkflow opnieuw toevoegen zodra daar weer behoefte aan is.
+- 
 
 ## Afgerond
 
 - Rootstructuur voor Jarvis ingericht.
 - GitHub-backup voor Jarvis-root aangemaakt.
+- Losse inspiratie voortaan naar `Kennis/00_inbox/extern/` route gestuurd.

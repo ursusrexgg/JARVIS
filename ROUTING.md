@@ -191,14 +191,15 @@ Start hier:
 
 Gebruik dit voor cursusmateriaal, leerprojecten, tooling en cursusworkflows.
 
-### Losse Inspiratie
+### Losse Inspiratie Of Externe Bronnen
 
 Start hier:
 
-1. `Inspiratie/`
-2. Relevante submap of notitie
+1. `Kennis/00_inbox/extern/`
+2. `Kennis/AGENTS.md`
+3. `Kennis/00_inbox/README.md`
 
-Als inspiratie structureel bruikbaar wordt, routeer die daarna naar `Kennis/00_inbox/extern/` of naar een specifiek project.
+Gebruik dit voor externe inspiratie, YouTube-video's, artikelen, podcasts, boeken en andere bronnen die nog verwerkt moeten worden. De losse rootmap `Inspiratie/` wordt niet meer als actieve route gebruikt.
 
 ## Nieuwe Projecten
 
@@ -239,5 +240,6 @@ Gebruik:
 - `Referenties/` voor SOPs en voorbeeldoutputs;
 - `Archief/` voor niet-actief rootmateriaal;
 - `Kennis/02_wiki/` voor conceptuele kennis;
+- `Kennis/00_inbox/extern/` voor nieuwe externe inspiratie en bronnen;
 - `PROJECTS.md` voor projectstatus en prioriteiten;
 - lokale `AGENTS.md`-bestanden voor werkwijze per subsysteem.

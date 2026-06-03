@@ -17,7 +17,8 @@ Dit is het lichte projectenoverzicht van Jarvis. Het doel is niet projectmanagem
 - Type: product/project met compliance-documentatie
 - Start: `Projecten/Sereen/README.md`
 - Belangrijkste documentatie: `Projecten/Sereen/sereen-compliance/DOCUMENTEN_INDEX.md`
-- Opmerking: bevat ontwikkel- en compliance-documentatie. Geen publieke inhoud zonder expliciete opdracht.
+- Samenwerking: met Joas. Joas doet technische ontwikkeling; Arthur werkt compliance, goedkeuring en operationele onderdelen uit. Marketing, sales en verdere operatie worden later samen uitgewerkt.
+- Opmerking: relevant project/potentieel nieuw bedrijf, maar niet Arthur's core business na de Bloom-exit. Bevat ontwikkel- en compliance-documentatie. Geen publieke inhoud zonder expliciete opdracht.
 
 ### Jarvis Tweede Brein
 
@@ -41,6 +42,7 @@ Dit is het lichte projectenoverzicht van Jarvis. Het doel is niet projectmanagem
   - kennisbasis: `Kennis/`
   - contentworkflows: `Workflows/LIAI/`, `Workflows/YTAI/`, `Workflows/BlogAI/`
 - Eerstvolgende stap: bepalen welke onderdelen het project nodig heeft: positionering, doelgroep, aanbod, contentpijlers, kanalen, ritme en merkregels.
+- Huidige richting: ondernemersinterviews via onder andere Code 49, met content voor YouTube, shorts en LinkedIn rond ondernemerschap, marketing, automatisering en AI.
 
 ## Workflow-Systemen
 

@@ -26,7 +26,7 @@ Werk vanuit intentie, niet vanuit volledige mapscans. Gebruik deze rootlaag eers
 - `Referenties/`: SOPs en voorbeeldoutputs die Codex praktisch mag gebruiken.
 - `Projecten/`: actieve en toekomstige projecten, zoals Sereen en Personal Brand Arthur.
 - `Workflows/`: herhaalbare productielijnen zoals BlogAI, YTAI en LIAI.
-- `Inspiratie/`: losse inspiratie en materiaal dat nog niet altijd in een vaste workflow zit.
+- Externe inspiratie loopt via `Kennis/00_inbox/extern/`; de rootmap `Inspiratie/` is geen actieve route meer.
 - `Archief/`: rootbreed archief voor materiaal dat niet meer actief is.
 
 ## Werkafspraken
@@ -36,6 +36,7 @@ Werk vanuit intentie, niet vanuit volledige mapscans. Gebruik deze rootlaag eers
 - Pas ruwe bronnen alleen inhoudelijk aan als Arthur dat expliciet vraagt.
 - Respecteer lokale agentregels in submappen. Lokale `AGENTS.md`-bestanden zijn leidend voor dat subsysteem.
 - Maak nieuwe onderdelen vindbaar via een README, index of duidelijke vermelding in `ROUTING.md` of `PROJECTS.md`.
+- Routeer nieuwe externe inspiratie standaard naar `Kennis/00_inbox/extern/`.
 - Voeg bij nieuwe workflows altijd toe: doel, input, output, startbestand, stopregels en waar resultaten worden opgeslagen.
 - Werk contextbestanden alleen bij wanneer Arthur daarom vraagt of bevestigt dat iets blijvend onthouden mag worden.
 - Leg structurele besluiten alleen vast in `Besluiten/decision-log.md` na duidelijke opdracht of bevestiging.

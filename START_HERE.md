@@ -8,6 +8,7 @@ Gebruik deze pagina als menselijk dashboard. Voor agentinstructies staat de tech
 
 - Algemene kennis zoeken of uitbreiden: `Kennis/index.md`
 - Nieuwe kennis droppen: `Kennis/00_inbox/`
+- Externe inspiratie droppen: `Kennis/00_inbox/extern/`
 - Actuele persoonlijke/werkcontext: `Context/README.md`
 - Huidige prioriteiten: `Context/current-priorities.md`
 - Planning vandaag: `Planning/today.md`
@@ -41,7 +42,7 @@ Belangrijkste plekken nu: `Context/` en `Branding/`.
 
 De private kennisbank met bronnen, concepten, analyses, templates en wiki-structuur.
 
-Belangrijkste plek nu: `Kennis/`.
+Belangrijkste plek nu: `Kennis/`. Nieuwe externe inspiratie gaat naar `Kennis/00_inbox/extern/`.
 
 ### Workflows
 
