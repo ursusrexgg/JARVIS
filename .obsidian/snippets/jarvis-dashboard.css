@@ -1,0 +1,58 @@
+.markdown-preview-view.jarvis-dashboard,
+.markdown-source-view.mod-cm6.jarvis-dashboard {
+  --jarvis-card-radius: 10px;
+  --jarvis-card-border: color-mix(in srgb, var(--text-muted) 22%, transparent);
+  --jarvis-soft-bg: color-mix(in srgb, var(--background-secondary) 82%, var(--background-primary));
+}
+
+.markdown-preview-view.jarvis-dashboard h1 {
+  margin-bottom: 0.25rem;
+}
+
+.markdown-preview-view.jarvis-dashboard h2 {
+  margin-top: 1.4rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--jarvis-card-border);
+}
+
+.markdown-preview-view.jarvis-dashboard .callout {
+  border: 1px solid var(--jarvis-card-border);
+  border-radius: var(--jarvis-card-radius);
+  background: var(--jarvis-soft-bg);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+.markdown-preview-view.jarvis-dashboard .callout-title {
+  font-size: 0.92rem;
+  font-weight: 700;
+}
+
+.markdown-preview-view.jarvis-dashboard .callout-content {
+  font-size: 0.94rem;
+}
+
+.markdown-preview-view.jarvis-dashboard table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--jarvis-card-border);
+  border-radius: var(--jarvis-card-radius);
+  overflow: hidden;
+  background: var(--jarvis-soft-bg);
+}
+
+.markdown-preview-view.jarvis-dashboard th {
+  background: color-mix(in srgb, var(--background-modifier-hover) 72%, transparent);
+  font-weight: 700;
+}
+
+.markdown-preview-view.jarvis-dashboard td,
+.markdown-preview-view.jarvis-dashboard th {
+  border-color: var(--jarvis-card-border);
+  vertical-align: top;
+}
+
+.markdown-preview-view.jarvis-dashboard .internal-embed {
+  border-left: 2px solid color-mix(in srgb, var(--text-accent) 55%, transparent);
+  padding-left: 0.55rem;
+}
