@@ -1,0 +1,10 @@
+.DS_Store
+.env
+*.pem
+*.key
+*.token
+node_modules/
+dist/
+build/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

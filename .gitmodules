@@ -1,0 +1,23 @@
+[submodule "Kennis"]
+	path = Kennis
+	url = git@github.com:Ursus-Rex/kennisbank.git
+
+[submodule "Branding/Tone-of-voice"]
+	path = Branding/Tone-of-voice
+	url = git@github.com:ursusrexgg/ToVarthur.git
+
+[submodule "Projecten/Sereen"]
+	path = Projecten/Sereen
+	url = git@github.com:Sereen-online/sereen.git
+
+[submodule "Workflows/BlogAI"]
+	path = Workflows/BlogAI
+	url = git@github.com:Ursus-Rex/blogai.git
+
+[submodule "Workflows/YTAI"]
+	path = Workflows/YTAI
+	url = git@github.com:Ursus-Rex/YTAI.git
+
+[submodule "Workflows/LIAI"]
+	path = Workflows/LIAI
+	url = git@github.com:Ursus-Rex/liai.git
