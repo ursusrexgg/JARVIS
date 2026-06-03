@@ -1,6 +1,21 @@
+---
+tags:
+  - notion-import
+  - cluster/warm-outreach
+  - cluster/productontwikkeling
+  - thema/aanbod
+  - thema/value-equation
+---
+
 # Value Equation
 
 Bron: https://app.notion.com/p/26b30392fc3481039f9deffb3f6f5367
+
+## Gerelateerd
+
+- [[../sales/grand-slam-offer|Grand Slam Offer]]
+- [[../opschalen/opschalen-concept|Opschalen - Concept]]
+- [[../business-ideeen/onweerstaanbaar-aanbod-app|Onweerstaanbaar aanbod app]]
 
 ## Omzet berekening
 

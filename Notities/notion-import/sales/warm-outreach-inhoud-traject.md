@@ -1,8 +1,24 @@
+---
+tags:
+  - notion-import
+  - cluster/warm-outreach
+  - cluster/sales
+  - thema/warm-outreach
+---
+
 # Warm Outreach - Inhoud traject
 
 Bron: https://app.notion.com/p/26b30392fc348139af03c12d1ad415da
 
 Status in Notion: deleted, maar inhoud was uitleesbaar.
+
+## Gerelateerd
+
+- [[../productontwikkeling/product-warm-outreach|Product: Warm Outreach]]
+- [[warm-outreach-concept|Warm Outreach - Concept]]
+- [[grand-slam-offer|Grand Slam Offer]]
+- [[../adverteren/salesgesprek|Salesgesprek]]
+- [[../adverteren/gymcon-notities|GymCon notities]]
 
 ## Wat gaan we doen
 

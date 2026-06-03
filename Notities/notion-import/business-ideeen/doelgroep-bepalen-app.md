@@ -1,3 +1,11 @@
+---
+tags:
+  - notion-import
+  - cluster/business-ideeen
+  - cluster/business-basis
+  - thema/doelgroep
+---
+
 # Doelgroep bepalen app
 
 Bron: https://app.notion.com/p/2c630392fc34804c8dc5e3718ccfd7f3

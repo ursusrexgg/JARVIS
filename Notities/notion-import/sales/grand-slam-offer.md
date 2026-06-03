@@ -1,8 +1,27 @@
+---
+tags:
+  - notion-import
+  - cluster/warm-outreach
+  - cluster/sales
+  - cluster/opschalen
+  - thema/aanbod
+  - thema/pricing
+---
+
 # Grand Slam Offer
 
 Bron: https://app.notion.com/p/26b30392fc3481088162d3fdcdb6e2e3
 
 Status in Notion: deleted, maar inhoud was uitleesbaar.
+
+## Gerelateerd
+
+- [[../productontwikkeling/product-warm-outreach|Product: Warm Outreach]]
+- [[warm-outreach-concept|Warm Outreach - Concept]]
+- [[warm-outreach-inhoud-traject|Warm Outreach - Inhoud traject]]
+- [[../opschalen/opschalen-concept|Opschalen - Concept]]
+- [[../business-ideeen/onweerstaanbaar-aanbod-app|Onweerstaanbaar aanbod app]]
+- [[../productontwikkeling/value-equation|Value Equation]]
 
 ## Waar moet je aan voldoen
 

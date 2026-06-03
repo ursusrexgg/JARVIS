@@ -159,7 +159,10 @@ Ik heb nog niets verwijderd, om drie redenen:
 
 ## Aanbevolen Volgende Stap
 
-1. Importeer eerst de pagina's onder `Hoogste Prioriteit`.
-2. Importeer daarna de middel-prioriteitspagina's.
-3. Beslis apart over `Nieuwe baan Suus`.
-4. Verwijder of archiveer daarna in Notion alleen de exact afgevinkte pagina's die veilig in Obsidian staan.
+Deze audit is na de eerste scan opgevolgd met een aanvullende import. De pagina's onder `Hoogste Prioriteit` en de meeste middel/mogelijk relevante pagina's zijn nu overgezet naar Obsidian en gekoppeld via tagclusters.
+
+Nog te doen:
+
+1. Controleer of de tagclusters logisch voelen in Obsidian.
+2. Beslis of er nog meer Notion-pagina's buiten deze zoekset moeten worden gescand.
+3. Verwijder of archiveer daarna in Notion alleen de exact afgevinkte pagina's die veilig in Obsidian staan.

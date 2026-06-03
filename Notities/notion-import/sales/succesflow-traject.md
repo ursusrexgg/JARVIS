@@ -1,8 +1,23 @@
+---
+tags:
+  - notion-import
+  - cluster/warm-outreach
+  - cluster/sales
+  - cluster/opschalen
+---
+
 # SuccesFlow traject
 
 Bron: https://app.notion.com/p/26b30392fc3481b19906e5b6764e06b6
 
 Status in Notion: deleted, maar inhoud was uitleesbaar.
+
+## Gerelateerd
+
+- [[../productontwikkeling/product-warm-outreach|Product: Warm Outreach]]
+- [[grand-slam-offer|Grand Slam Offer]]
+- [[../business-ideeen/financieel-doel-app|Financieel doel app]]
+- [[../business-ideeen/onweerstaanbaar-aanbod-app|Onweerstaanbaar aanbod app]]
 
 ## Traject
 

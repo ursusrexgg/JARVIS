@@ -1,3 +1,12 @@
+---
+tags:
+  - notion-import
+  - cluster/business-ideeen
+  - cluster/opschalen
+  - cluster/warm-outreach
+  - thema/aanbod
+---
+
 # Onweerstaanbaar aanbod app
 
 Bron: https://app.notion.com/p/2c630392fc348067bddbe500c55a44d5

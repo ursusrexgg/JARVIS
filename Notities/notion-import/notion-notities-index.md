@@ -24,10 +24,47 @@ Aanvullende controle: [[notion-audit-2026-06-03|Notion audit 2026-06-03]]
 
 Importopmerking: meerdere business-idee-notities hadden in Notion alleen een titel en geen bodytekst. Deze zijn alsnog als ideekaart overgenomen en verrijkt met gevonden gerelateerde context waar die duidelijk gekoppeld was.
 
+### Business basis
+
+- [[business-basis/key-factors-of-succes|Key factors of succes]]
+- [[business-basis/onderwerpen-dump|Onderwerpen dump]]
+- [[business-basis/lijst-met-onderwerpen|Lijst met onderwerpen]]
+- [[business-basis/business-basis|Business basis]]
+- [[business-basis/scribbles|Scribbles]]
+- [[business-basis/een-bedrijf-bouwen-is-niet-leuk|Een bedrijf bouwen is niet leuk]]
+- [[business-basis/stappenplan-business-bouwen|Stappenplan business bouwen]]
+
+### Opschalen
+
+- [[opschalen/opschalen-concept|Opschalen - Concept]]
+
+### Adverteren
+
+- [[adverteren/adverteren|Adverteren]]
+- [[adverteren/affiliates|Affiliates]]
+- [[adverteren/emailmarketing|E-mailmarketing]]
+- [[adverteren/salesgesprek|Salesgesprek]]
+- [[adverteren/launch|Launch]]
+- [[adverteren/gymcon-notities|GymCon notities]]
+
+### Social content
+
+- [[social-content/social-onderwerpen|Social onderwerpen]]
+
+### Schrijven
+
+- [[schrijven/boeken-serie-schrijven|Boeken serie schrijven]]
+- [[schrijven/boeken-schrijven-concept|Boeken schrijven - Concept]]
+
+### Prive
+
+- [[prive/nieuwe-baan-suus|Nieuwe baan Suus]]
+
 ### Podcast
 
 - [[podcast/podcast-ondernemer-doorbraak|Podcast ondernemer doorbraak]]
 - [[podcast/podcast-concept|Podcast concept]]
+- [[podcast/podcast|Podcast]]
 
 ### Productontwikkeling
 
@@ -55,3 +92,4 @@ Importopmerking: meerdere business-idee-notities hadden in Notion alleen een tit
 - Veel onderliggende Notion-notes kwamen terug met status `deleted`, maar waren nog wel uitleesbaar. Ze zijn daarom wel meegenomen.
 - Enkele pagina's waren leeg in Notion. Die zijn als placeholder opgenomen zodat de index compleet blijft.
 - `Marketing` en `Boek schrijven` kwamen als resourcepagina's terug, maar zonder zichtbare onderliggende notes via de koppeling.
+- Gerelateerde Notion-pagina's zijn waar mogelijk gekoppeld via YAML-tags zoals `cluster/warm-outreach`, `cluster/business-basis`, `cluster/opschalen`, `cluster/adverteren`, `cluster/social-content`, `cluster/boek-schrijven` en `cluster/podcast`.

@@ -1,3 +1,12 @@
+---
+tags:
+  - notion-import
+  - cluster/business-ideeen
+  - cluster/business-basis
+  - cluster/opschalen
+  - thema/financieel-plan
+---
+
 # Financieel doel app
 
 Bron: https://app.notion.com/p/2c630392fc34800ebaddf67898063151

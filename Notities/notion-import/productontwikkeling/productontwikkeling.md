@@ -1,3 +1,10 @@
+---
+tags:
+  - notion-import
+  - cluster/productontwikkeling
+  - notion/area
+---
+
 # Productontwikkeling
 
 Bron: https://app.notion.com/p/26b30392fc3481c08a0edef7f57b8bfe

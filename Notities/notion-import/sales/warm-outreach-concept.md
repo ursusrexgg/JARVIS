@@ -1,8 +1,23 @@
+---
+tags:
+  - notion-import
+  - cluster/warm-outreach
+  - cluster/sales
+  - thema/aanbod
+---
+
 # Warm Outreach - Concept
 
 Bron: https://app.notion.com/p/26b30392fc3481209503c6f11cb9dceb
 
 Status in Notion: deleted, maar inhoud was uitleesbaar.
+
+## Gerelateerd
+
+- [[../productontwikkeling/product-warm-outreach|Product: Warm Outreach]]
+- [[warm-outreach-inhoud-traject|Warm Outreach - Inhoud traject]]
+- [[grand-slam-offer|Grand Slam Offer]]
+- [[../adverteren/salesgesprek|Salesgesprek]]
 
 ## Concept
 

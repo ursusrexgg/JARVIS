@@ -1,3 +1,10 @@
+---
+tags:
+  - notion-import
+  - cluster/podcast
+  - notion/project
+---
+
 # Podcast ondernemer doorbraak
 
 Bron: https://app.notion.com/p/2e830392fc348054b07ff3f0b599633b
@@ -12,3 +19,8 @@ Status in Notion: projectpagina.
 ## Notitie
 
 De Notion-projectpagina bevatte vooral projectstructuur en een lege projectoverview-placeholder. De onderliggende note `Podcast concept` was leeg.
+
+## Gerelateerd
+
+- [[podcast|Podcast]]
+- [[podcast-concept|Podcast concept]]

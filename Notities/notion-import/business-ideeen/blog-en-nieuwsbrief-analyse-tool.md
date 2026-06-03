@@ -1,3 +1,12 @@
+---
+tags:
+  - notion-import
+  - cluster/business-ideeen
+  - cluster/social-content
+  - thema/content
+  - thema/ai
+---
+
 # Blog en nieuwsbrief analyse tool
 
 Bron: https://app.notion.com/p/2ca30392fc3480b1aa7dfb820c73aa22
