@@ -77,6 +77,7 @@ Beschikbare eerste skills:
 - `Skills/project-pulse-check.md`
 - `Skills/decision-capture.md`
 - `Skills/research-brief.md`
+- `Skills/product-research.md`
 - `Skills/content-repurpose.md`
 
 Gebruik dit voor terugkerende executive-assistant taken waarbij een vaste werkwijze helpt.

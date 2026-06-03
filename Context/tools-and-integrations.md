@@ -80,7 +80,7 @@ Deze tools zijn onderdeel van Arthur's ervaring, maar zijn niet automatisch de t
 - Google Calendar
 - taken- of projectmanagementtool
 - HubSpot
-- researchtools
+- Perplexity API voor gericht product- en toolonderzoek
 
 ## Projectmanagement Wens
 
@@ -105,3 +105,10 @@ Vraag bij toolkeuzes of we bouwen voor:
 - of een prive/personal-brand workflow.
 
 Neem oude Bloom-tools niet automatisch aan als toekomstige standaard.
+
+## Research Tooling
+
+- Voorkeur voor productonderzoek: Perplexity via API, niet via MCP.
+- API-key hoort lokaal in `PERPLEXITY_API_KEY` en wordt niet opgeslagen in Jarvis of GitHub.
+- Gebruik `Skills/product-research.md` als proceskaart voor vergelijkend onderzoek.
+- Gebruik `Skills/scripts/perplexity_product_research.py` alleen wanneer actuele webresearch echt nodig is.

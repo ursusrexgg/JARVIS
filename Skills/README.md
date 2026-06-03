@@ -10,6 +10,7 @@ Ze zijn bedoeld voor Codex-gebruik binnen deze workspace. Dit zijn geen externe 
 - `project-pulse-check.md`: projecten kort nalopen op status, risico en volgende actie.
 - `decision-capture.md`: structurele keuzes vastleggen.
 - `research-brief.md`: researchvraag scherp maken en output structureren.
+- `product-research.md`: vergelijkend product- en toolonderzoek met Perplexity API als voorkeursroute.
 - `content-repurpose.md`: bestaande input omzetten naar contentvarianten.
 
 ## Format
