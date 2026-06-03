@@ -33,6 +33,7 @@ Importopmerking: meerdere business-idee-notities hadden in Notion alleen een tit
 - [[business-basis/scribbles|Scribbles]]
 - [[business-basis/een-bedrijf-bouwen-is-niet-leuk|Een bedrijf bouwen is niet leuk]]
 - [[business-basis/stappenplan-business-bouwen|Stappenplan business bouwen]]
+- [[business-basis/verkeerde-beslissingen|Verkeerde beslissingen]]
 
 ### Opschalen
 

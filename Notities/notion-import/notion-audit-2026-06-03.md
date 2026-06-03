@@ -18,6 +18,8 @@ Dit is een goede inhoudelijke scan, maar geen gegarandeerd volledige database-ex
 
 Deze pagina's zijn al als Markdown-bestand aanwezig in `Notities/notion-import/`:
 
+Update na aanvullende scan: `Verkeerde beslissingen` is alsnog gevonden en geimporteerd onder `Notities/notion-import/business-basis/verkeerde-beslissingen.md`.
+
 ### Business ideeen
 
 - Financieel inzicht app

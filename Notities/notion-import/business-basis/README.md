@@ -17,6 +17,7 @@ Cluster voor Notion-pagina's rond ondernemersmindset, praktijkgroei, doelgroep, 
 - [[scribbles|Scribbles]]
 - [[een-bedrijf-bouwen-is-niet-leuk|Een bedrijf bouwen is niet leuk]]
 - [[stappenplan-business-bouwen|Stappenplan business bouwen]]
+- [[verkeerde-beslissingen|Verkeerde beslissingen]]
 
 ## Gerelateerde Clusters
 
