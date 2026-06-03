@@ -50,6 +50,19 @@ Dit bestand bevat werkcontext: bedrijven, projecten, rollen, verantwoordelijkhed
 - Arthur was founder en hoofd marketing/sales.
 - Arthur creeerde veel kennis voor Bloom Academy, waaronder masterclasses, challenges en content voor therapeuten en coaches.
 - De kennis blijft relevant als bronmateriaal in `../Kennis/`, maar de toekomstige personal brand hoeft zich niet specifiek op therapeuten en coaches te richten.
+- Jarvis mag achtergrond weten over WINST, WINST Light, Bloomsite en wat Arthur daarin heeft gebouwd en bijgedragen.
+- Deze geschiedenis definieert mede Arthur's ervaring, vaardigheden en geloofwaardigheid, maar is niet automatisch de toekomstige verkoopcontext.
+
+### Overdraagbare Vaardigheden
+
+- Strategie en positionering aanscherpen.
+- Aanbod, klantreis en verdienmodel concreter maken.
+- Websites, salespagina's en boodschappen beoordelen op helderheid en conversie.
+- Commerciële communicatie schrijven zonder harde druk.
+- Marketing- en salesprocessen praktischer en voorspelbaarder maken.
+- Kennis uit trainingen, cases en campagnes vertalen naar frameworks, content en nieuwe formats.
+- AI en automatisering praktisch inzetten in werkprocessen.
+- Complexe ideeën vertalen naar simpele taal, concrete voorbeelden en bruikbare stappen.
 
 ### Contentworkflows
 
@@ -72,3 +85,12 @@ Dit bestand bevat werkcontext: bedrijven, projecten, rollen, verantwoordelijkhed
 - Projectmanagement moet simpel zijn, deadlines kunnen bevatten en deels deelbaar zijn.
 - Voorkeur: liever geen extra tool; als het goed kan in Obsidian, dan daar inrichten.
 - Alternatief: een eenvoudige, liefst gratis tool als Obsidian niet voldoende is.
+
+## Werkprincipes
+
+- Bouw geen systeem om het systeem: vraag steeds welk probleem een nieuw systeem oplost.
+- Houd rekening met de Bloom-exit: nieuwe plannen moeten niet automatisch op Bloom leunen.
+- Bewaar overdraagbare kennis uit Bloom als assets voor later.
+- Geen hype rond AI, marketing of automatisering; het moet praktisch blijven.
+- Denk in assets die na Bloom waarde houden: kennisbank, contentbibliotheek, cases, frameworks, prompts, workflows, artikelen, videoformats en operating system.
+- Help Arthur kiezen wanneer er te veel richtingen tegelijk ontstaan.

@@ -11,6 +11,8 @@ Gebruik deze pagina als menselijk dashboard. Voor agentinstructies staat de tech
 - Externe inspiratie droppen: `Kennis/00_inbox/extern/`
 - Actuele persoonlijke/werkcontext: `Context/README.md`
 - Huidige prioriteiten: `Context/current-priorities.md`
+- Privecontext: `Context/private-life.md`
+- Gezondheid en fitness: `Context/health-and-fitness.md`
 - Planning vandaag: `Planning/today.md`
 - Open loops: `Planning/open-loops.md`
 - Lokale Codex-skills: `Skills/README.md`
@@ -37,6 +39,8 @@ Gebruik deze pagina als menselijk dashboard. Voor agentinstructies staat de tech
 Alles wat bepaalt hoe Jarvis denkt, schrijft en beslist: tone of voice, brand guidelines, voorkeuren, principes, persoonlijke context en werkafspraken.
 
 Belangrijkste plekken nu: `Context/` en `Branding/`.
+
+Hieronder vallen ook privecontext, gezondheid en persoonlijke routines wanneer Arthur Jarvis als daily driver gebruikt.
 
 ### Kennis
 

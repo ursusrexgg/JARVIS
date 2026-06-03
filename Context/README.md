@@ -12,6 +12,9 @@ Gebruik deze laag voor informatie die vaak nodig is bij planning, prioriteiten, 
 - `goals-and-milestones.md`: doelen per jaar, kwartaal en maand.
 - `team-and-people.md`: belangrijke mensen, rollen en samenwerkingen.
 - `communication-preferences.md`: hoe Arthur graag communiceert en samenwerkt.
+- `private-life.md`: privecontext, hobby's, moestuin en persoonlijke routines.
+- `health-and-fitness.md`: fitness, conditie en gezondheidsondersteuning.
+- `tools-and-integrations.md`: tools, koppelingen en historische toolervaring.
 
 ## Werkafspraak Voor Codex
 

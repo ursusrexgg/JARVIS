@@ -40,6 +40,30 @@ Dit bestand houdt bij welke tools, repositories en externe koppelingen relevant 
 
 - Wordt gebruikt voor speech-to-text.
 
+## Historisch Gebruikt Of Onderzocht
+
+Deze tools zijn onderdeel van Arthur's ervaring, maar zijn niet automatisch de toekomstige stack:
+
+- ChatGPT
+- Custom GPT's
+- Deep Research
+- NotebookLM
+- Notion
+- StartInfinity
+- Huddle
+- Vimeo
+- WebinarGeek
+- WordPress
+- Amelia
+- MailBlue
+- MailerLite
+- Meta Ads
+- Google Ads
+- Slack
+- CapCut
+- Plug&Pay
+- UpViral
+
 ## Submodules
 
 - `Kennis`
@@ -70,3 +94,14 @@ Dit bestand houdt bij welke tools, repositories en externe koppelingen relevant 
 - Alternatief: eenvoudige, liefst gratis projectmanagementtool.
 
 Voeg alleen concrete toolafspraken toe wanneer Arthur bevestigt dat ze gebruikt gaan worden.
+
+## Toolkeuze Principe
+
+Vraag bij toolkeuzes of we bouwen voor:
+
+- de huidige overgangsfase;
+- Arthur's nieuwe manier van werken na Bloom;
+- een gedeeld project zoals Sereen;
+- of een prive/personal-brand workflow.
+
+Neem oude Bloom-tools niet automatisch aan als toekomstige standaard.

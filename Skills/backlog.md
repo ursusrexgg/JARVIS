@@ -31,6 +31,21 @@ Een item wordt pas een echte skill wanneer Arthur merkt dat de taak terugkerend 
 - Doel: projecten, open loops, besluiten en prioriteiten wekelijks nalopen.
 - Status: kandidaat.
 
+### Daily Driver Reminders
+
+- Doel: terugkerende herinneringen beheren voor werk, prive, planten, verjaardagen en routines.
+- Status: kandidaat.
+
+### Health And Fitness Check-in
+
+- Doel: haalbare ondersteuning voor roeitraining, CrossFit, conditie en gezonde routines.
+- Status: kandidaat.
+
+### Private Planning Assistant
+
+- Doel: priveplanning, uitjes, attenties en ideeen rond Susanne en vrije tijd ondersteunen.
+- Status: later.
+
 ### Session Closeout
 
 - Doel: aan het einde van een werksessie vastleggen wat is gedaan, wat openstaat en welke besluiten/memory-updates nodig zijn.

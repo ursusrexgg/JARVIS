@@ -36,6 +36,16 @@ Start hier:
 
 Gebruik dit voor vragen over focus, prioriteiten, dagplanning, werkcontext, persoonlijke voorkeuren en hoe Jarvis met Arthur moet samenwerken.
 
+### Prive, Gezondheid Of Routines
+
+Start hier:
+
+1. `Context/private-life.md`
+2. `Context/health-and-fitness.md`
+3. `Planning/open-loops.md`
+
+Gebruik dit voor priveplanning, herinneringen, gezondheid, roeitraining, CrossFit, balkonmoestuin, verjaardagen en persoonlijke routines.
+
 ### Dagplanning Of Weekly Review
 
 Start hier:
