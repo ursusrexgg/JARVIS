@@ -28,20 +28,32 @@ V1 neemt de referenties mee als sfeer en structuur, maar kopieert geen kleuren, 
 
 ## V1 Schermopbouw
 
-- Linkerzijbalk: Jarvis-logo/naam, Vandaag, Mission Control, Projecten, Kennis, Documenten, Skills, Memory en Instellingen.
-- Bovenbalk: datum, begroeting, zoekfunctie, Nieuw document en Vraag Jarvis.
-- Hoofdscherm Vandaag: Morning Brief, Agenda, Mail, Mission Control, Projecten, Taken, Kennis, Documenten, Skills en Memory.
-- Rechterpaneel: Jarvis Chat en contextbronnen.
-- Mobiel: sidebar wordt horizontale compacte navigatie; chatpaneel valt onder het dashboard.
+- Linkerzijbalk: Jarvis-logo/naam, Vandaag, Mission Control, Agenda, Projecten, Taken, Workflows, Kennis en Documenten.
+- Bovenbalk: datum, begroeting, zoekfunctie en een generieke `Nieuw`-knop voor document, taak, project of idee.
+- Eerste zicht: compacte statistiekenstrip met agenda, mail, projecten en kennisinbox.
+- Hoofdscherm Vandaag: brede panelen onder elkaar in plaats van halve-kolomtegels.
+- Morning Brief: blijft breed en rustig, direct onder de statistieken.
+- Agenda: bredere dagweergave met beknopte blokken en kleurverschil tussen zakelijk en prive.
+- Mail: openstaande mailstatus met korte samenvatting van mailsoorten.
+- Mission Control: geen projectoverzicht, maar missie -> doelen -> eerstvolgende beweging.
+- Projecten: actieve projecten met knop naar alle projecten en toekomstige projectmanagementtool.
+- Taken: algemene inbox met snelle taak/idee-drop.
+- Workflows: startpunten voor LinkedIn, YouTube en BlogAI workflows.
+- Kennis: status/statistieken van de kennisbank in plaats van alleen links.
+- Documenten: drie meest recent toegevoegde documenten.
+- Chat: geen vast rechterpaneel in V1. Codex-chat blijft voorlopig in Codex; het dashboard verwijst naar workflows en context die daar gestart kunnen worden.
+- Mobiel: sidebar wordt horizontale compacte navigatie; alle panelen blijven onder elkaar.
 
 ## V1 Acceptatiecriteria
 
 - Binnen 5 seconden is duidelijk wat vandaag belangrijk is.
-- Projecten, mail, agenda, kennis, documenten en Jarvis-chat zijn direct herkenbaar.
+- Projecten, mail, agenda, kennis, documenten, taken en workflows zijn direct herkenbaar.
 - Gmail, Calendar en projectmanagement worden alleen als placeholders/read-only routes getoond.
 - De startpagina voelt als een dashboard, niet als marketingpagina of statische Markdown-index.
 - De kleurstelling is warm en eigen, zonder dominante paarse/blauwe tech-gradient of zwaar donker OS-thema.
 - Tekst past in kaarten, badges en knoppen op desktop en mobiel.
+- Mission Control heeft een eigen functie en overlapt niet met taken of projectoverzicht.
+- De vaste Jarvis-chatkolom is verwijderd uit V1 zolang Codex-chat praktisch beter in Codex zelf werkt.
 
 ## Gevoel
 
@@ -69,12 +81,12 @@ Het eerste scherm moet direct antwoord geven op:
 
 ## Hoofdindeling
 
-Mogelijke layout:
+V1 layout:
 
-- Linker zijbalk: Vandaag, Projecten, Kennis, Documenten, Skills, Memory, Settings.
-- Bovenbalk: datum, globale zoekfunctie, snelle documentknop, Jarvis chatknop.
-- Hoofdvlak: dynamische dashboardpanelen.
-- Rechterpaneel: Jarvis chat, morning brief of contextsuggesties.
+- Linker zijbalk: Vandaag, Mission Control, Agenda, Projecten, Taken, Workflows, Kennis en Documenten.
+- Bovenbalk: datum, globale zoekfunctie en generieke Nieuw-knop.
+- Hoofdvlak: statistiekenstrip en brede dashboardpanelen.
+- Geen rechterpaneel in V1; daardoor krijgt het dashboard meer ademruimte.
 
 ## Dashboardpanelen
 
@@ -106,12 +118,16 @@ Mogelijke layout:
 - Documenttype filter.
 - Open in Obsidian.
 
-### Skills En Memory
+### Workflows
 
-- Beschikbare skills.
-- Waarvoor te gebruiken.
-- Recente contextupdates.
-- Open contextvragen.
+- Startpunten voor bestaande workflowmappen.
+- LinkedIn, YouTube en BlogAI als eerste zichtbare opties.
+- Workflow start praktisch gezien in Codex, met het dashboard als navigatielaag.
+
+### Context En Memory
+
+- Niet zichtbaar als los V1-paneel.
+- Alleen toevoegen wanneer er later een concrete toepassing is, bijvoorbeeld recente contextupdates of ontbrekende contextvragen.
 
 ### Agentgebruik En Kosten
 
