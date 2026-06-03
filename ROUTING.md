@@ -24,6 +24,18 @@ Start hier:
 
 Gebruik `Kennis/00_inbox/intern/` voor eigen materiaal en `Kennis/00_inbox/extern/` voor materiaal van anderen.
 
+### Notities, Ideeën Of Schrijfoutput
+
+Start hier:
+
+1. `Notities/README.md`
+2. `Notities/00_inbox/snelle-ideeen.md`
+3. `Notities/schrijven/README.md`
+
+Gebruik dit voor snelle ideeën, ruwe notities, boekideeën, blogs, LinkedIn-posts, scripts, essays, meetingnotities en reflecties.
+
+Gebruik `Notities/` voor denken en schrijven. Gebruik `Kennis/` pas wanneer iets verwerkt en herbruikbaar genoeg is voor de wiki. Gebruik Notion later voor projectmanagement, taken, deadlines en verantwoordelijkheden.
+
 ### Persoonlijke Context, Prioriteiten Of Planning
 
 Start hier:

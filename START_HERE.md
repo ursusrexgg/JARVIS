@@ -12,6 +12,8 @@ De actieve Obsidian-startpagina is `Dashboard.md`. Die pagina toont alleen de ce
 - Algemene kennis zoeken of uitbreiden: `Kennis/index.md`
 - Nieuwe kennis droppen: `Kennis/00_inbox/`
 - Externe inspiratie droppen: `Kennis/00_inbox/extern/`
+- Snelle notities en ideeën droppen: `Notities/00_inbox/`
+- Schrijven en conceptoutput: `Notities/schrijven/`
 - Actuele persoonlijke/werkcontext: `Context/README.md`
 - Huidige prioriteiten: `Context/current-priorities.md`
 - Privecontext: `Context/private-life.md`
@@ -51,6 +53,12 @@ Hieronder vallen ook privecontext, gezondheid en persoonlijke routines wanneer A
 De private kennisbank met bronnen, concepten, analyses, templates en wiki-structuur.
 
 Belangrijkste plek nu: `Kennis/`. Nieuwe externe inspiratie gaat naar `Kennis/00_inbox/extern/`.
+
+### Notities
+
+Ruwe gedachten, ideeën, schrijfmateriaal en notities die nog niet in de kennisbank of projectdocumentatie thuishoren.
+
+Belangrijkste plek nu: `Notities/`. Snelle ideeën gaan naar `Notities/00_inbox/snelle-ideeen.md`; schrijfoutput naar `Notities/schrijven/`.
 
 ### Workflows
 

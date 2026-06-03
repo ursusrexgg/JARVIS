@@ -16,6 +16,7 @@ Werk vanuit intentie, niet vanuit volledige mapscans. Gebruik deze rootlaag eers
 ## Hoofdgebieden
 
 - `Kennis/`: private kennisbank en tweede brein voor concepten, bronnen, analyses en templates.
+- `Notities/`: ruwe notities, ideeën, schrijfoutput, meetings en reflecties.
 - `Context/`: actuele persoonlijke, werk-, prioriteiten- en communicatiecontext.
 - `Planning/`: simpele openstaande takenlijst.
 - `Dashboard.md`: eenvoudige Obsidian-startpagina met de centrale checklist.
@@ -38,6 +39,7 @@ Werk vanuit intentie, niet vanuit volledige mapscans. Gebruik deze rootlaag eers
 - Respecteer lokale agentregels in submappen. Lokale `AGENTS.md`-bestanden zijn leidend voor dat subsysteem.
 - Maak nieuwe onderdelen vindbaar via een README, index of duidelijke vermelding in `ROUTING.md` of `PROJECTS.md`.
 - Routeer nieuwe externe inspiratie standaard naar `Kennis/00_inbox/extern/`.
+- Routeer snelle ideeën, ruwe gedachten en schrijfconcepten standaard naar `Notities/`.
 - Voeg bij nieuwe workflows altijd toe: doel, input, output, startbestand, stopregels en waar resultaten worden opgeslagen.
 - Werk contextbestanden alleen bij wanneer Arthur daarom vraagt of bevestigt dat iets blijvend onthouden mag worden.
 - Leg structurele besluiten alleen vast in `Besluiten/decision-log.md` na duidelijke opdracht of bevestiging.
