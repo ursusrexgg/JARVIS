@@ -26,7 +26,7 @@ Dit is het lichte projectenoverzicht van Jarvis. Het doel is niet projectmanagem
 - Start: `START_HERE.md`
 - Routing: `ROUTING.md`
 - Agentregels: `AGENTS.md`
-- Doel: zorgen dat kennis, workflows, tone of voice, projecten en output snel vindbaar en herbruikbaar zijn.
+- Doel: zorgen dat context, kennis, workflows, tone of voice, projecten, besluiten, planning en output snel vindbaar en herbruikbaar zijn.
 
 ## Projecten In Opbouw
 

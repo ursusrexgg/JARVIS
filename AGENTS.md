@@ -21,9 +21,13 @@ Werk vanuit intentie, niet vanuit volledige mapscans. Gebruik deze rootlaag eers
 - `Branding/`: tone of voice, merkregels, brand guidelines en stijlafspraken.
 - `Besluiten/`: decision log voor structurele keuzes.
 - `Skills/`: lokale Codex-proceskaarten voor terugkerende executive-assistant taken.
+- `Rules/`: compacte rootbrede regels voor communicatie, bestandsbeheer, privacy en publicatie.
+- `Templates/`: rootbrede templates voor sessies, onboarding en projecten.
+- `Referenties/`: SOPs en voorbeeldoutputs die Codex praktisch mag gebruiken.
 - `Projecten/`: actieve en toekomstige projecten, zoals Sereen en Personal Brand Arthur.
 - `Workflows/`: herhaalbare productielijnen zoals BlogAI, YTAI en LIAI.
 - `Inspiratie/`: losse inspiratie en materiaal dat nog niet altijd in een vaste workflow zit.
+- `Archief/`: rootbreed archief voor materiaal dat niet meer actief is.
 
 ## Werkafspraken
 
@@ -36,6 +40,9 @@ Werk vanuit intentie, niet vanuit volledige mapscans. Gebruik deze rootlaag eers
 - Werk contextbestanden alleen bij wanneer Arthur daarom vraagt of bevestigt dat iets blijvend onthouden mag worden.
 - Leg structurele besluiten alleen vast in `Besluiten/decision-log.md` na duidelijke opdracht of bevestiging.
 - Gebruik `Skills/` als proceskaart bij terugkerende EA-taken, maar lees alleen de relevante skill.
+- Gebruik `Rules/` voor detailregels in plaats van `AGENTS.md` vol te maken.
+- Gebruik `Templates/` voor terugkerende outputvormen.
+- Verwijder liever niets definitief; archiveer rootbreed materiaal in `Archief/` of lokaal in de juiste archiefmap.
 - Houd edits klein en traceerbaar. Geen massale herstructurering tenzij Arthur daar expliciet om vraagt.
 
 ## Stopregels

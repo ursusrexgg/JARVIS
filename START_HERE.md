@@ -13,7 +13,12 @@ Gebruik deze pagina als menselijk dashboard. Voor agentinstructies staat de tech
 - Planning vandaag: `Planning/today.md`
 - Open loops: `Planning/open-loops.md`
 - Lokale Codex-skills: `Skills/README.md`
+- Skills backlog: `Skills/backlog.md`
 - Besluitenlog: `Besluiten/decision-log.md`
+- Regels: `Rules/README.md`
+- Templates: `Templates/README.md`
+- Referenties: `Referenties/README.md`
+- Tools en integraties: `Context/tools-and-integrations.md`
 - Branding en tone of voice: `Branding/README.md`
 - Tone of voice gebruiken of bijwerken: `Branding/Tone-of-voice/`
 - Brand guidelines opbouwen: `Branding/Tone-of-voice/brand-guidelines/`
@@ -67,6 +72,12 @@ Belangrijkste plek nu: `Planning/`.
 Terugkerende executive-assistant werkwijzen voor Codex.
 
 Belangrijkste plek nu: `Skills/`.
+
+### Rules, Templates En Referenties
+
+Praktische ondersteuning voor hoe Jarvis werkt, welke formats gebruikt worden en welke voorbeelden/SOPs beschikbaar zijn.
+
+Belangrijkste plekken nu: `Rules/`, `Templates/` en `Referenties/`.
 
 ### Outputs
 

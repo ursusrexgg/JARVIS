@@ -65,6 +65,15 @@ Beschikbare eerste skills:
 
 Gebruik dit voor terugkerende executive-assistant taken waarbij een vaste werkwijze helpt.
 
+### Skills Backlog
+
+Start hier:
+
+1. `Skills/backlog.md`
+2. `Templates/onboarding-questions.md`
+
+Gebruik dit om terugkerende taken te verzamelen voordat ze echte skills worden.
+
 ### Besluiten Of Structurele Keuzes
 
 Start hier:
@@ -74,6 +83,53 @@ Start hier:
 3. `Besluiten/decision-template.md`
 
 Gebruik dit voor keuzes over Jarvis-structuur, projectrichting, workflowregels, privacy, GitHub of terugkerende werkwijze.
+
+### Regels
+
+Start hier:
+
+1. `Rules/README.md`
+2. `Rules/communication-style.md`
+3. `Rules/file-management.md`
+4. `Rules/privacy-and-publishing.md`
+
+Gebruik dit voor rootbrede werkafspraken die te gedetailleerd zijn voor `AGENTS.md`.
+
+### Templates
+
+Start hier:
+
+1. `Templates/README.md`
+2. het specifieke template dat past bij de taak
+
+Gebruik dit voor sessiesamenvattingen, onboarding en nieuwe projectmappen.
+
+### Referenties, SOPs Of Voorbeelden
+
+Start hier:
+
+1. `Referenties/README.md`
+2. `Referenties/SOPs/`
+3. `Referenties/Voorbeelden/`
+
+Gebruik dit voor praktische werkwijzen, voorbeeldoutputs en stijlvoorbeelden.
+
+### Archiveren
+
+Start hier:
+
+1. `Archief/README.md`
+2. eventueel lokale archiefmap van het subsysteem
+
+Gebruik dit wanneer materiaal niet meer actief is maar wel bewaard moet blijven.
+
+### Tools En Integraties
+
+Start hier:
+
+1. `Context/tools-and-integrations.md`
+
+Gebruik dit voor GitHub, Obsidian, Codex, submodules en toekomstige koppelingen.
 
 ### Tone Of Voice Of Brand Guidelines
 
@@ -178,6 +234,10 @@ Gebruik:
 - `Planning/` voor dagfocus, open loops en weekly review;
 - `Besluiten/` voor structurele keuzes en beslisgeschiedenis;
 - `Skills/` voor lokale Codex-proceskaarten;
+- `Rules/` voor rootbrede werkregels;
+- `Templates/` voor herbruikbare formats;
+- `Referenties/` voor SOPs en voorbeeldoutputs;
+- `Archief/` voor niet-actief rootmateriaal;
 - `Kennis/02_wiki/` voor conceptuele kennis;
 - `PROJECTS.md` voor projectstatus en prioriteiten;
 - lokale `AGENTS.md`-bestanden voor werkwijze per subsysteem.

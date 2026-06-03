@@ -1,5 +1,6 @@
 .DS_Store
 .env
+AGENTS.local.md
 *.pem
 *.key
 *.token
