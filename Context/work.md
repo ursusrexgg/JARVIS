@@ -83,8 +83,8 @@ Dit bestand bevat werkcontext: bedrijven, projecten, rollen, verantwoordelijkhed
 
 - Arthur wil meerdere projecten kunnen beheren, waaronder priveprojecten en gedeelde projecten zoals Sereen.
 - Projectmanagement moet simpel zijn, deadlines kunnen bevatten en deels deelbaar zijn.
-- Voorkeur: liever geen extra tool; als het goed kan in Obsidian, dan daar inrichten.
-- Alternatief: een eenvoudige, liefst gratis tool als Obsidian niet voldoende is.
+- Obsidian wordt niet gebruikt als volledig projectmanagementsysteem.
+- Voorkeur: een eenvoudige, liefst gratis externe tool zodra de keuze is gemaakt.
 
 ## Werkprincipes
 

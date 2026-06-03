@@ -42,27 +42,19 @@ Start hier:
 
 1. `Context/private-life.md`
 2. `Context/health-and-fitness.md`
-3. `Planning/reminders.md`
-4. `Planning/routines.md`
-5. `Planning/open-loops.md`
+3. `Planning/tasks.md`
 
-Gebruik dit voor priveplanning, herinneringen, gezondheid, roeitraining, CrossFit, balkonmoestuin, verjaardagen en persoonlijke routines.
+Gebruik dit voor privecontext, gezondheid, roeitraining, CrossFit, balkonmoestuin, verjaardagen en persoonlijke routines. Zet concrete acties in `Planning/tasks.md`.
 
-### Dagplanning Of Weekly Review
+### Taken Of Planning
 
 Start hier:
 
-1. `Dashboard.md`
-2. `Planning/README.md`
-3. `Planning/tasks.md`
-4. `Planning/deadlines.md`
-5. `Planning/project-overview.md`
-6. `Planning/today.md`
-7. `Planning/open-loops.md`
-8. `Planning/weekly-review.md`
-9. `Context/current-priorities.md`
+1. `Planning/tasks.md`
+2. `Dashboard.md`
+3. `Context/current-priorities.md`
 
-Gebruik dit voor dagplanning, open loops, focusvragen en wekelijkse reviews.
+Gebruik dit voor openstaande taken, simpele planning en losse acties. Gebruik Obsidian niet als volledig projectmanagementsysteem.
 
 ### Lokale Codex-Skills
 
@@ -249,8 +241,8 @@ Gebruik:
 
 - `Branding/` voor stem, stijl en brand;
 - `Context/` voor actuele persoonlijke, werk- en prioriteitencontext;
-- `Planning/` voor dagfocus, open loops en weekly review;
-- `Dashboard.md` als Obsidian-startdashboard;
+- `Planning/tasks.md` voor de simpele openstaande checklist;
+- `Dashboard.md` als eenvoudige Obsidian-startpagina;
 - `Besluiten/` voor structurele keuzes en beslisgeschiedenis;
 - `Skills/` voor lokale Codex-proceskaarten;
 - `Rules/` voor rootbrede werkregels;

@@ -4,7 +4,7 @@ Welkom in Jarvis: Arthur's private executive-assistant brain.
 
 Gebruik deze pagina als overzicht van Jarvis. Voor agentinstructies staat de technische werkroute in `AGENTS.md`. Voor beslissen waar iets thuishoort staat de kaart in `ROUTING.md`.
 
-De actieve Obsidian-startpagina is `Dashboard.md`. Dit dashboard toont live secties uit taken, reminders, deadlines, projectstatus en open loops.
+De actieve Obsidian-startpagina is `Dashboard.md`. Die pagina toont alleen de centrale checklist uit `Planning/tasks.md`.
 
 ## Snelle Routes
 
@@ -16,11 +16,7 @@ De actieve Obsidian-startpagina is `Dashboard.md`. Dit dashboard toont live sect
 - Huidige prioriteiten: `Context/current-priorities.md`
 - Privecontext: `Context/private-life.md`
 - Gezondheid en fitness: `Context/health-and-fitness.md`
-- Planning vandaag: `Planning/today.md`
 - Takenlijst: `Planning/tasks.md`
-- Deadlines: `Planning/deadlines.md`
-- Projectstatus compact: `Planning/project-overview.md`
-- Open loops: `Planning/open-loops.md`
 - Lokale Codex-skills: `Skills/README.md`
 - Skills backlog: `Skills/backlog.md`
 - Besluitenlog: `Besluiten/decision-log.md`
@@ -74,9 +70,9 @@ Belangrijkste plek nu: `Besluiten/decision-log.md`.
 
 ### Planning
 
-Dagfocus, open loops en wekelijkse reflectie.
+Een simpele checklist met alles wat nog openstaat.
 
-Belangrijkste plekken nu: `Dashboard.md`, `Planning/tasks.md`, `Planning/deadlines.md`, `Planning/project-overview.md` en `Planning/`.
+Belangrijkste plek nu: `Planning/tasks.md`.
 
 ### Skills
 
@@ -108,10 +104,4 @@ Nieuwe structurele onderdelen krijgen minimaal:
 
 ## Dashboard
 
-Het actieve Obsidian-dashboard is `Dashboard.md`. Daarin worden actuele secties ingesloten uit de onderliggende planningbestanden:
-
-- welke projecten openstaan;
-- welke taken vandaag belangrijk zijn;
-- welke workflows actief zijn;
-- waar recente output staat;
-- welke context snel nodig is.
+Het actieve Obsidian-dashboard is `Dashboard.md`. Dit is geen projectmanagementdashboard meer, maar een simpele startpagina met de openstaande taken uit `Planning/tasks.md`.

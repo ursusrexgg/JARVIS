@@ -36,8 +36,8 @@ Dit bestand bevat waar Jarvis op dit moment rekening mee moet houden bij plannin
 ## Niet Nu
 
 - De toekomstige richting hoeft niet specifiek gericht te blijven op therapeuten en coaches.
-- Obsidian-dashboard bouwen is gewenst, maar pas nadat context en projecten scherper zijn.
-- Een nieuwe projectmanagementtool kiezen is nog open; voorkeur is eerst kijken of Obsidian voldoende is.
+- Obsidian wordt niet gebruikt als volledig projectmanagementsysteem.
+- Een nieuwe externe projectmanagementtool kiezen is nog open.
 
 ## Open Vragen
 
@@ -45,4 +45,4 @@ Dit bestand bevat waar Jarvis op dit moment rekening mee moet houden bij plannin
 - Welke vorm krijgt het persoonlijke merk concreet?
 - Worden ondernemersinterviews het hoofdformat?
 - Welk verdienmodel past logisch bij het persoonlijke merk?
-- Hoe richten we projectmanagement in: Obsidian of een externe tool?
+- Welke externe projectmanagementtool past het beste bij Arthur en gedeelde projecten zoals Sereen?

@@ -6,11 +6,6 @@ Een item wordt pas een echte skill wanneer Arthur merkt dat de taak terugkerend 
 
 ## Mogelijke Skills
 
-### Dashboard Review
-
-- Doel: Obsidian/Jarvis-dashboard nalopen en samenvatten.
-- Status: later.
-
 ### Inbox Ingest
 
 - Doel: nieuwe losse input verwerken naar `Kennis/`, `Projecten/`, `Referenties/` of `Inspiratie/`.
@@ -24,11 +19,6 @@ Een item wordt pas een echte skill wanneer Arthur merkt dat de taak terugkerend 
 ### Personal Brand Planner
 
 - Doel: positionering, contentpijlers, kanalen en ritme voor Personal Brand Arthur uitwerken.
-- Status: kandidaat.
-
-### Weekly Review
-
-- Doel: projecten, open loops, besluiten en prioriteiten wekelijks nalopen.
 - Status: kandidaat.
 
 ### Daily Driver Reminders

@@ -14,10 +14,9 @@ Gebruik deze skill wanneer Arthur vraagt om:
 
 Lees gericht:
 
-1. `../Planning/today.md`
-2. `../Planning/open-loops.md`
-3. `../Context/current-priorities.md`
-4. `../PROJECTS.md`
+1. `../Planning/tasks.md`
+2. `../Context/current-priorities.md`
+3. `../PROJECTS.md`
 
 Lees alleen extra projectbestanden als de dagplanning om dat project draait.
 
@@ -25,7 +24,7 @@ Lees alleen extra projectbestanden als de dagplanning om dat project draait.
 
 1. Vat de actuele prioriteiten kort samen.
 2. Benoem maximaal drie focusblokken voor vandaag.
-3. Markeer open loops die vandaag aandacht vragen.
+3. Markeer openstaande taken die vandaag aandacht vragen.
 4. Stel een realistische volgorde voor.
 5. Vraag alleen om verduidelijking als planning onmogelijk is zonder extra informatie.
 

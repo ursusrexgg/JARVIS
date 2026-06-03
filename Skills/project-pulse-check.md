@@ -18,7 +18,7 @@ Lees gericht:
 2. `../Projecten/README.md`
 3. relevante project-README's
 4. `../Context/current-priorities.md`
-5. `../Planning/open-loops.md`
+5. `../Planning/tasks.md`
 
 ## Stappen
 

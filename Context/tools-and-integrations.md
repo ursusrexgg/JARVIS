@@ -18,9 +18,9 @@ Dit bestand houdt bij welke tools, repositories en externe koppelingen relevant 
 
 ### Obsidian
 
-- Wordt gebruikt of voorbereid als dashboard- en kennisomgeving.
-- Dashboard is gewenst, maar nog niet gebouwd.
-- Heeft de voorkeur als mogelijke plek voor projectmanagement, mits projecten, deadlines en overzicht daar simpel genoeg in te richten zijn.
+- Wordt gebruikt als notitie-, context- en kennisomgeving.
+- `Dashboard.md` toont alleen de centrale checklist.
+- Obsidian wordt niet gebruikt als volledig projectmanagementsysteem.
 
 ### Google Workspace
 
@@ -90,8 +90,7 @@ Deze tools zijn onderdeel van Arthur's ervaring, maar zijn niet automatisch de t
 - Moet deadlines en simpele opvolging ondersteunen.
 - Moet dagelijkse uitvoering ondersteunen: wat is vandaag belangrijk en wat kan Arthur afvinken?
 - Moet per project voortgang, deadlines, onderliggende taken en taakbeschrijvingen zichtbaar maken.
-- Voorkeur: geen extra tool als Obsidian voldoende is.
-- Alternatief: eenvoudige, liefst gratis projectmanagementtool.
+- Voorkeur: eenvoudige, liefst gratis externe projectmanagementtool.
 
 Voeg alleen concrete toolafspraken toe wanneer Arthur bevestigt dat ze gebruikt gaan worden.
 

@@ -41,7 +41,7 @@ Dit bestand bevat belangrijke mensen, rollen en samenwerkingen waar Jarvis reken
   - duidelijke taakbeschrijvingen;
   - wat afgevinkt kan worden.
 - Terugkerend frictiepunt: projectmanagementtools worden wel ingericht, maar daarna niet consequent gebruikt in de dagelijkse uitvoering.
-- Gewenste oplossing: projectmanagement moet direct aansluiten op dagelijks gebruik, dagtaken en makkelijk afvinken.
+- Gewenste oplossing: projectmanagement moet direct aansluiten op dagelijks gebruik en makkelijk afvinken, maar niet als complex Obsidian-systeem.
 
 ## Privacygrenzen
 
