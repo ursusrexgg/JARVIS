@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jarvis Dashboard V1 Prototype</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Hoofdnavigatie">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">J</div>
+          <div>
+            <p class="eyebrow">Private OS</p>
+            <h1>Jarvis</h1>
+          </div>
+        </div>
+
+        <nav class="nav-list" aria-label="Dashboard onderdelen">
+          <a class="nav-item active" href="#today" aria-current="page">
+            <span class="nav-icon" aria-hidden="true">⌂</span>
+            <span>Vandaag</span>
+          </a>
+          <a class="nav-item" href="#mission">
+            <span class="nav-icon" aria-hidden="true">◎</span>
+            <span>Mission Control</span>
+          </a>
+          <a class="nav-item" href="#projects">
+            <span class="nav-icon" aria-hidden="true">▦</span>
+            <span>Projecten</span>
+          </a>
+          <a class="nav-item" href="#knowledge">
+            <span class="nav-icon" aria-hidden="true">◇</span>
+            <span>Kennis</span>
+          </a>
+          <a class="nav-item" href="#documents">
+            <span class="nav-icon" aria-hidden="true">□</span>
+            <span>Documenten</span>
+          </a>
+          <a class="nav-item" href="#skills">
+            <span class="nav-icon" aria-hidden="true">✦</span>
+            <span>Skills</span>
+          </a>
+          <a class="nav-item" href="#memory">
+            <span class="nav-icon" aria-hidden="true">◌</span>
+            <span>Memory</span>
+          </a>
+          <a class="nav-item" href="#settings">
+            <span class="nav-icon" aria-hidden="true">⚙</span>
+            <span>Instellingen</span>
+          </a>
+        </nav>
+
+        <section class="sidebar-card" aria-label="Systeemstatus">
+          <p class="eyebrow">Systeemstatus</p>
+          <div class="mini-metric">
+            <span class="status-dot"></span>
+            <span>Lokale Jarvis-data actief</span>
+          </div>
+          <p>Gmail, Calendar en projectmanagement staan nog read-only gepland.</p>
+        </section>
+      </aside>
+
+      <main class="main-area">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Woensdag 3 juni 2026</p>
+            <h2>Goedemorgen Arthur</h2>
+          </div>
+          <div class="topbar-actions">
+            <label class="search-box">
+              <span aria-hidden="true">⌕</span>
+              <input type="search" placeholder="Zoek in Jarvis" aria-label="Zoek in Jarvis" />
+            </label>
+            <button class="button secondary" type="button">
+              <span aria-hidden="true">＋</span>
+              Nieuw document
+            </button>
+            <button class="button primary" type="button">
+              <span aria-hidden="true">↗</span>
+              Vraag Jarvis
+            </button>
+          </div>
+        </header>
+
+        <div class="content-layout">
+          <section class="dashboard" id="today" aria-label="Vandaag dashboard">
+            <article class="brief-card card span-2">
+              <div class="card-header">
+                <div>
+                  <p class="eyebrow">Morning Brief</p>
+                  <h3>Vandaag draait om focus houden terwijl het dashboard vorm krijgt.</h3>
+                </div>
+                <span class="badge today">Vandaag</span>
+              </div>
+              <div class="focus-list">
+                <div class="focus-item">
+                  <span class="focus-number">1</span>
+                  <p>Werk de visuele richting van Jarvis Dashboard uit tot een lokaal prototype.</p>
+                </div>
+                <div class="focus-item">
+                  <span class="focus-number">2</span>
+                  <p>Houd Gmail, Calendar en projectmanagement bewust als placeholders.</p>
+                </div>
+                <div class="focus-item">
+                  <span class="focus-number">3</span>
+                  <p>Bewaar documenten en kennisroutes in Jarvis, zodat Obsidian bruikbaar blijft.</p>
+                </div>
+              </div>
+            </article>
+
+            <article class="card metric-card">
+              <div class="card-header compact">
+                <h3>Agenda</h3>
+                <span class="badge read-only">Read-only later</span>
+              </div>
+              <div class="metric-large">3</div>
+              <p class="metric-label">belangrijke afspraken</p>
+              <ul class="quiet-list">
+                <li>09:30 Focusblok personal brand</li>
+                <li>13:00 Sereen check-in</li>
+                <li>16:00 Dashboard review</li>
+              </ul>
+            </article>
+
+            <article class="card metric-card">
+              <div class="card-header compact">
+                <h3>Mail</h3>
+                <span class="badge open">Open</span>
+              </div>
+              <div class="metric-large">12</div>
+              <p class="metric-label">mails vragen mogelijk aandacht</p>
+              <p class="muted">Gmail-koppeling komt later. Eerst alleen de plek en het gedrag ontwerpen.</p>
+            </article>
+
+            <article class="card" id="mission">
+              <div class="card-header compact">
+                <h3>Mission Control</h3>
+                <span class="badge action">Actie nodig</span>
+              </div>
+              <div class="status-stack">
+                <div>
+                  <span class="status-label">Hoofddoel</span>
+                  <strong>Personal brand route na Bloom</strong>
+                </div>
+                <div>
+                  <span class="status-label">Open beslissing</span>
+                  <strong>Projectmanagementtool kiezen</strong>
+                </div>
+                <div>
+                  <span class="status-label">Wacht op Arthur</span>
+                  <strong>Interviewformat scherp maken</strong>
+                </div>
+              </div>
+            </article>
+
+            <article class="card" id="projects">
+              <div class="card-header compact">
+                <h3>Projecten</h3>
+                <span class="badge today">3 actief</span>
+              </div>
+              <div class="project-list">
+                <div class="project-row">
+                  <span class="project-color green"></span>
+                  <div>
+                    <strong>Jarvis Dashboard</strong>
+                    <p>Visuele daily-driver app in opbouw.</p>
+                  </div>
+                </div>
+                <div class="project-row">
+                  <span class="project-color terracotta"></span>
+                  <div>
+                    <strong>Personal Brand Arthur</strong>
+                    <p>Positionering, content en verdienmodel.</p>
+                  </div>
+                </div>
+                <div class="project-row">
+                  <span class="project-color mint"></span>
+                  <div>
+                    <strong>Sereen</strong>
+                    <p>Compliance, operatie en samenwerking met Joas.</p>
+                  </div>
+                </div>
+              </div>
+            </article>
+
+            <article class="card">
+              <div class="card-header compact">
+                <h3>Taken</h3>
+                <span class="badge wait">Fallback</span>
+              </div>
+              <ul class="task-list">
+                <li><input type="checkbox" /> V1-dashboardlayout beoordelen</li>
+                <li><input type="checkbox" /> Documentenworkflow prioriteren</li>
+                <li><input type="checkbox" /> Externe PM-tool later kiezen</li>
+              </ul>
+            </article>
+
+            <article class="card" id="knowledge">
+              <div class="card-header compact">
+                <h3>Kennis</h3>
+                <span class="badge new">Nieuw</span>
+              </div>
+              <div class="knowledge-grid">
+                <a href="../project-brief.md">Projectbrief</a>
+                <a href="../integrations.md">Integraties</a>
+                <a href="../documents-workflow.md">Documentenworkflow</a>
+                <a href="../../../Kennis/index.md">Kennisindex</a>
+              </div>
+            </article>
+
+            <article class="card span-2" id="documents">
+              <div class="card-header">
+                <div>
+                  <p class="eyebrow">Documenten</p>
+                  <h3>Maak output zichtbaar buiten chat.</h3>
+                </div>
+                <button class="button secondary compact-button" type="button">
+                  <span aria-hidden="true">＋</span>
+                  Nieuw
+                </button>
+              </div>
+              <div class="document-grid">
+                <div class="document-tile">
+                  <span class="doc-type">Projectnotitie</span>
+                  <strong>Dashboard design review</strong>
+                  <p>Route: Projecten/Jarvis Dashboard/notities</p>
+                </div>
+                <div class="document-tile">
+                  <span class="doc-type">Besluit</span>
+                  <strong>Obsidian blijft kennislaag</strong>
+                  <p>Route: Besluiten/decision-log.md</p>
+                </div>
+                <div class="document-tile">
+                  <span class="doc-type">Extern item</span>
+                  <strong>Hermes video inspiratie</strong>
+                  <p>Route: Kennis/00_inbox/extern</p>
+                </div>
+              </div>
+            </article>
+
+            <article class="card" id="skills">
+              <div class="card-header compact">
+                <h3>Skills</h3>
+                <span class="badge read-only">Overzicht</span>
+              </div>
+              <ul class="quiet-list">
+                <li>Morning review</li>
+                <li>Project pulse check</li>
+                <li>Decision capture</li>
+                <li>Content repurpose</li>
+              </ul>
+            </article>
+
+            <article class="card" id="memory">
+              <div class="card-header compact">
+                <h3>Memory</h3>
+                <span class="badge wait">Context</span>
+              </div>
+              <p class="muted">Toont later welke context Jarvis gebruikt: persoonlijke voorkeuren, projecten, beslissingen en recente kennisupdates.</p>
+              <div class="memory-tags">
+                <span>Personal brand</span>
+                <span>Sereen</span>
+                <span>Amsterdam</span>
+                <span>Obsidian</span>
+              </div>
+            </article>
+          </section>
+
+          <aside class="assistant-panel" aria-label="Jarvis chat en context">
+            <div class="assistant-header">
+              <div>
+                <p class="eyebrow">Jarvis Chat</p>
+                <h3>Context Suggestions</h3>
+              </div>
+              <span class="status-dot"></span>
+            </div>
+
+            <div class="chat-thread">
+              <div class="chat-message jarvis">
+                <span class="source-label">Jarvis</span>
+                <p>Ik zou vandaag alleen het dashboardprototype beoordelen en nog geen externe koppelingen bouwen.</p>
+              </div>
+              <div class="chat-message user">
+                <span class="source-label">Arthur</span>
+                <p>Laat me zien welke onderdelen meteen bruikbaar zijn.</p>
+              </div>
+              <div class="chat-message jarvis">
+                <span class="source-label">Bronnen</span>
+                <p>Planning, Projecten, Kennis, Skills en Context kunnen lokaal al zichtbaar worden.</p>
+              </div>
+            </div>
+
+            <div class="context-sources">
+              <span>PROJECTS.md</span>
+              <span>Planning/tasks.md</span>
+              <span>Kennis/index.md</span>
+            </div>
+
+            <form class="chat-input">
+              <label class="sr-only" for="chat">Vraag aan Jarvis</label>
+              <input id="chat" type="text" placeholder="Vraag Jarvis om een volgende stap..." />
+              <button type="button" aria-label="Verstuur">↗</button>
+            </form>
+          </aside>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

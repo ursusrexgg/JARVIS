@@ -28,6 +28,7 @@ Jarvis Dashboard wordt de interface bovenop:
 - Projectbrief: `project-brief.md`
 - Roadmap: `roadmap.md`
 - Designrichting: `design-brief.md`
+- V1 prototype: `prototype/index.html`
 - Databronnen en integraties: `integrations.md`
 - Documentenworkflow: `documents-workflow.md`
 

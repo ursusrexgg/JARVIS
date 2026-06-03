@@ -14,6 +14,11 @@ Acties:
 
 Status: gestart.
 
+Ontwerpstatus:
+
+- V1 visuele richting vastgelegd in `design-brief.md`.
+- Eerste statische prototype beschikbaar in `prototype/index.html`.
+
 ## Fase 1 - Lokale Prototype-App
 
 Doel: een visueel dashboard bouwen dat lokaal draait en lokale Jarvis-data leest.
