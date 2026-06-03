@@ -93,6 +93,16 @@ Start hier:
 
 Gebruik dit voor keuzes over Jarvis-structuur, projectrichting, workflowregels, privacy, GitHub of terugkerende werkwijze.
 
+### Handoff Of Sessie Afsluiten
+
+Start hier:
+
+1. `Handoffs/README.md`
+2. nieuwste bestand in `Handoffs/`
+3. `Templates/session-summary.md`
+
+Gebruik dit om een werksessie af te ronden, besluiten en gedane stappen kort samen te vatten, en de volgende logische stap voor een volgend gesprek vast te leggen.
+
 ### Regels
 
 Start hier:

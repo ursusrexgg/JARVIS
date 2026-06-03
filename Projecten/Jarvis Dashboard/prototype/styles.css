@@ -514,7 +514,8 @@ a {
 }
 
 .mission-statement,
-.mission-goals > div {
+.mission-goals > div,
+.handoff-grid > div {
   border: 1px solid var(--border);
   border-radius: var(--radius-card);
   background: var(--panel-warm);
@@ -544,6 +545,29 @@ a {
 
 .mission-goals p {
   margin: 4px 0 0;
+}
+
+.handoff-card {
+  border-color: rgba(54, 90, 69, 0.18);
+  background:
+    linear-gradient(135deg, rgba(168, 221, 189, 0.16), rgba(255, 255, 255, 0) 72%),
+    var(--panel);
+}
+
+.handoff-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.handoff-grid > div {
+  padding: 12px;
+}
+
+.handoff-grid p {
+  margin: 5px 0 0;
+  color: var(--muted);
+  font-size: 13px;
 }
 
 .status-label {
@@ -699,6 +723,7 @@ a {
 
   .focus-list,
   .mission-layout,
+  .handoff-grid,
   .workflow-grid,
   .knowledge-stats {
     grid-template-columns: 1fr;

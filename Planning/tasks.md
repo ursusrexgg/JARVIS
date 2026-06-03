@@ -4,8 +4,6 @@ Dit is de enige actieve takenlijst binnen Jarvis. Gebruik gewone Markdown-checkb
 
 ## Openstaande Taken
 
-- [ ] Perplexity API-key aanmaken en lokaal instellen als `PERPLEXITY_API_KEY`.
-- [ ] Product-research skill testen met een eerste echte Perplexity API-call.
 - [ ] Keuze maken voor een externe projectmanagementtool buiten Obsidian.
 - [ ] Personal Brand Arthur positionering uitwerken.
 - [ ] Eerste ondernemersinterview-format schetsen.

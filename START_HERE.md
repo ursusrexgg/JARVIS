@@ -17,6 +17,7 @@ De actieve Obsidian-startpagina is `Dashboard.md`. Die pagina toont alleen de ce
 - Privecontext: `Context/private-life.md`
 - Gezondheid en fitness: `Context/health-and-fitness.md`
 - Takenlijst: `Planning/tasks.md`
+- Laatste sessieoverdrachten: `Handoffs/`
 - Lokale Codex-skills: `Skills/README.md`
 - Skills backlog: `Skills/backlog.md`
 - Besluitenlog: `Besluiten/decision-log.md`
@@ -70,6 +71,12 @@ Jarvis Dashboard is het project voor de toekomstige visuele daily-driver app. Di
 Structurele keuzes over Jarvis, projecten, workflows en werkwijze.
 
 Belangrijkste plek nu: `Besluiten/decision-log.md`.
+
+### Handoffs
+
+Korte afsluitnotities per werksessie, bedoeld om een volgend gesprek snel op te starten.
+
+Belangrijkste plek nu: `Handoffs/`.
 
 ### Planning
 
