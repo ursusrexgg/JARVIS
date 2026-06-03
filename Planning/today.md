@@ -12,7 +12,7 @@ Datum: 2026-06-03
 
 ## Taken
 
-- [ ] Open [[Dashboard|Jarvis Dashboard]].
+- [x] Open [[Dashboard|Jarvis Dashboard]].
 - [ ] Check [[Planning/tasks|Tasks]].
 - [ ] Kies maximaal drie taken voor vandaag.
 - [ ] Verplaats losse gedachten naar [[Planning/open-loops|Open Loops]].

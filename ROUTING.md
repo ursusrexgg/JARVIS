@@ -55,10 +55,12 @@ Start hier:
 1. `Dashboard.md`
 2. `Planning/README.md`
 3. `Planning/tasks.md`
-4. `Planning/today.md`
-5. `Planning/open-loops.md`
-6. `Planning/weekly-review.md`
-7. `Context/current-priorities.md`
+4. `Planning/deadlines.md`
+5. `Planning/project-overview.md`
+6. `Planning/today.md`
+7. `Planning/open-loops.md`
+8. `Planning/weekly-review.md`
+9. `Context/current-priorities.md`
 
 Gebruik dit voor dagplanning, open loops, focusvragen en wekelijkse reviews.
 

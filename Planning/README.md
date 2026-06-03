@@ -8,6 +8,8 @@ Gebruik deze laag voor dagfocus, open loops en wekelijkse reflectie. Dit is nog 
 
 - `../Dashboard.md`: centrale Obsidian-startpagina.
 - `tasks.md`: centrale takenlijst met simpele Markdown-checkboxes.
+- `deadlines.md`: compacte deadlineweergave voor het dashboard.
+- `project-overview.md`: compacte projectstatus voor het dashboard.
 - `today.md`: focus voor vandaag.
 - `open-loops.md`: losse dingen die aandacht vragen maar nog geen projecttaak zijn.
 - `daily-review.md`: ochtend- en eindedagritme.

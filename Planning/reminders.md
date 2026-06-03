@@ -2,6 +2,12 @@
 
 Dit bestand bevat herinneringen die Jarvis later moet kunnen helpen bewaken.
 
+## Vandaag
+
+- [ ] Dashboard openen. [area: systeem]
+- [ ] Taken voor vandaag kiezen. [area: planning]
+- [ ] Check of er iets met tijdsdruk is. [area: planning]
+
 ## Dagelijks
 
 - [ ] Dashboard openen. [area: systeem]

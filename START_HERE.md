@@ -4,7 +4,7 @@ Welkom in Jarvis: Arthur's private executive-assistant brain.
 
 Gebruik deze pagina als overzicht van Jarvis. Voor agentinstructies staat de technische werkroute in `AGENTS.md`. Voor beslissen waar iets thuishoort staat de kaart in `ROUTING.md`.
 
-De actieve Obsidian-startpagina is `Dashboard.md`.
+De actieve Obsidian-startpagina is `Dashboard.md`. Dit dashboard toont live secties uit taken, reminders, deadlines, projectstatus en open loops.
 
 ## Snelle Routes
 
@@ -18,6 +18,8 @@ De actieve Obsidian-startpagina is `Dashboard.md`.
 - Gezondheid en fitness: `Context/health-and-fitness.md`
 - Planning vandaag: `Planning/today.md`
 - Takenlijst: `Planning/tasks.md`
+- Deadlines: `Planning/deadlines.md`
+- Projectstatus compact: `Planning/project-overview.md`
 - Open loops: `Planning/open-loops.md`
 - Lokale Codex-skills: `Skills/README.md`
 - Skills backlog: `Skills/backlog.md`
@@ -74,7 +76,7 @@ Belangrijkste plek nu: `Besluiten/decision-log.md`.
 
 Dagfocus, open loops en wekelijkse reflectie.
 
-Belangrijkste plekken nu: `Dashboard.md`, `Planning/tasks.md` en `Planning/`.
+Belangrijkste plekken nu: `Dashboard.md`, `Planning/tasks.md`, `Planning/deadlines.md`, `Planning/project-overview.md` en `Planning/`.
 
 ### Skills
 
@@ -106,7 +108,7 @@ Nieuwe structurele onderdelen krijgen minimaal:
 
 ## Dashboard
 
-Het actieve Obsidian-dashboard is `Dashboard.md`. Daarin staat:
+Het actieve Obsidian-dashboard is `Dashboard.md`. Daarin worden actuele secties ingesloten uit de onderliggende planningbestanden:
 
 - welke projecten openstaan;
 - welke taken vandaag belangrijk zijn;

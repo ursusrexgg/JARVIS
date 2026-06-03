@@ -44,7 +44,7 @@ Werk vanuit intentie, niet vanuit volledige mapscans. Gebruik deze rootlaag eers
 - Gebruik `Skills/` als proceskaart bij terugkerende EA-taken, maar lees alleen de relevante skill.
 - Gebruik `Rules/` voor detailregels in plaats van `AGENTS.md` vol te maken.
 - Gebruik `Templates/` voor terugkerende outputvormen.
-- Gebruik bij dagplanning eerst `Dashboard.md`, `Planning/tasks.md`, `Planning/today.md` en `Planning/open-loops.md`.
+- Gebruik bij dagplanning eerst `Dashboard.md`, `Planning/tasks.md`, `Planning/deadlines.md`, `Planning/project-overview.md`, `Planning/today.md` en `Planning/open-loops.md`.
 - Verwijder liever niets definitief; archiveer rootbreed materiaal in `Archief/` of lokaal in de juiste archiefmap.
 - Houd edits klein en traceerbaar. Geen massale herstructurering tenzij Arthur daar expliciet om vraagt.
 
