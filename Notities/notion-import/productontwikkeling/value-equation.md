@@ -2,11 +2,13 @@
 
 Bron: https://app.notion.com/p/26b30392fc3481039f9deffb3f6f5367
 
-## Dream outcome
+## Omzet berekening
+
+## Dream outcome (increase)
 
 Een agenda vol afspraken, inkomen waar je zonder zorgen van kunt leven en kunt doen waar je gelukkig van wordt, bekendheid waarmee je jouw dromen kunt realiseren, klanten die betere resultaten bereiken dan bij al jouw concurrenten en blijer met jou zijn dan ooit tevoren.
 
-Algemene behoefte:
+**Algemene behoefte:**
 
 - Beautiful
 - Respected
@@ -20,7 +22,7 @@ Hoe blij zullen je kinderen zijn wanneer je ze mee kunt nemen op vakantie naar D
 
 Hoe jaloers zullen je collega's zijn, wanneer jouw agenda vol zit met afspraken en je comfortabel kunt leven.
 
-## Perceived likelihood of achievement
+## Perceived likelihood of achievement (increase)
 
 Hoe groot is mijn geloof dat ik het beloofde resultaat ga behalen wanneer ik deze aankoop doe?
 
@@ -28,16 +30,16 @@ Hoe groot is mijn geloof dat ik het beloofde resultaat ga behalen wanneer ik dez
 - Reviews
 - Keurmerk
 
-## Time delay
+## Time delay (decrease)
 
-Hoe lang duurt het voordat het resultaat wordt behaald, zowel op korte termijn als op lange termijn.
+Hoe land duurt het voordat het resultaat wordt behaald, zowel op korte termijn als op lange termijn.
 
-Lange termijn is het einddoel, maar onderweg naar dit doel ervaren mensen vaak ook al dingen die gebeuren die waardevol zijn.
+Lange termijn is het einddoel maar onderweg naar dit doel ervaren mensen vaak ook al dingen die gebeuren die waardevol zijn.
 
-De snelle win is direct een lijst voor warm outreach en bellen om binnen 7 dagen nieuwe client te krijgen. Je kunt alle kennis gratis vinden, maar het duurt lang om te vinden en om het dan ook nog eens zelf op te zetten. Mensen betalen voor snelheid, dus dit is waardevol.
+De snelle win is direct een lijst voor warm outreach en bellen om binnen 7 dagen nieuwe client te krijgen. Je kunt alle kennis gratis vinden, maar het duurt lang om te vinden en om het dan ook nog eens zelf op te zetten. Mensen betalen voor snelheid, dus dit is waardevol, denk aan Uber vs lopen naar bestemming.
 
 De lange win is diensten herdefinieren naar grand slam offer.
 
-## Moeite en opoffering
+## Moeite en opoffering (decrease)
 
-Wat kost het mensen in tastbare en ontastbare kosten? Ondanks dat je deze waardes misschien niet kan verlagen, kun je wel de waargenomen moeite en opoffering verlagen.
+Wat kost het mensen in tastbare en ontastbare kosten. Ondanks dat je deze waardes misschien niet kan verlagen, kun je wel de waargenomen moeite en opoffering verlagen.
