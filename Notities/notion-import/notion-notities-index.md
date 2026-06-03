@@ -20,6 +20,8 @@ Bron: Notion `Notes` en gekoppelde resource/project-notities.
 - [[business-ideeen/frameworks-van-code49-samen-met-leden-toepassen|Frameworks van Code49 samen met leden toepassen]]
 - [[business-ideeen/ai-transcriptie-coach|AI transcriptie coach]]
 
+Importopmerking: meerdere business-idee-notities hadden in Notion alleen een titel en geen bodytekst. Deze zijn alsnog als ideekaart overgenomen en verrijkt met gevonden gerelateerde context waar die duidelijk gekoppeld was.
+
 ### Podcast
 
 - [[podcast/podcast-ondernemer-doorbraak|Podcast ondernemer doorbraak]]
